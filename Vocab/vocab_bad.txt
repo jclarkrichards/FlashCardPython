@@ -1,0 +1,8 @@
+rewelacyjny::sensational::0::1::
+traktować::to treat::1::3::
+ławeczka::bench::3::13::
+bielizna::lingerie::3::11::
+pracodawca::employer::2::6::
+narzeczony::fiance::0::2::
+wnuki::grandchildren::0::1::
+stosunek::relation::0::3::

@@ -1,0 +1,158 @@
+from random import randint
+import math
+
+vocab_bad = "vocab_bad.txt"    #words that have at least a 50% fail rate
+vocab_new = "vocab_new.txt"    #words that have at least a 50% success rate
+vocab_best = "vocab_best.txt"  #words that are in between the two rates above
+
+def fixVocabFile():
+    f = open("vocablist.txt", "r+")
+    newlines = []
+    for line in f:
+        temp = line.split('\n')[0]
+        newline = temp.split("::")
+        if len(newline) == 2:
+            temp += "::0::0"
+            newlines.append(temp)
+        else:
+            newlines.append(temp)
+        #wordlist.append(line.split('\n')[0])
+        #print(line)
+        #print(len(line.split("::")))
+              
+    f.close()
+    #print(newlines)
+    f = open("vocablist.txt", "w+")
+    for line in newlines:
+        f.write(line + "\n")
+    f.close()
+    
+
+def readVocabFile():
+    f = open("vocablist.txt", "r+")
+    wordlist = []
+    for line in f:
+        wordlist.append(line.split('\n')[0])
+        #print(line)
+        #print(len(line.split("::")))
+              
+    f.close()
+    return wordlist
+
+def generateRandomPack(wordlist, num):
+    if len(wordlist) < num:
+        num = len(wordlist)
+
+    #Maybe different files for the good and the bad?
+    #good = math.ceil(num * 0.3)
+    #bad = num - good
+    
+    pack = []
+    indices = list(range(len(wordlist)))
+
+    for i in list(range(num)):
+        #found = False
+        #while not found:
+        index = randint(0, len(indices)-1)
+        #right = int(wordlist[index].split("::")[2])
+        #wrong = int(wordlist[index].split("::")[3])
+        #val = right - wrong
+
+                
+            
+        pack.append(indices.pop(index))
+
+
+    return pack
+
+fixVocabFile()
+print("Welcome to Flash Learn.  Please select an option below")
+selection = -1
+
+while selection != '4' and selection != 'q':
+    print("Please make a selection from the following")
+    print("1: Random Pack")
+    print("2: Add Card")
+    print("3: Print Word List")
+    print("4 or q: QUIT")
+    
+    selection = input("Selection: " )
+
+    if selection == '1':
+        numwords = int(input("How many words to learn? " ))
+        words = readVocabFile()
+        packIndices = generateRandomPack(words, numwords)
+        #print(pack)
+        learning = True
+        numcorrect = 0
+        
+        while learning:            
+            print('\x1bc') #clear screen
+            print("\n------------------------------------------")
+            index = packIndices.pop(0)
+            pol = words[index].split("::")[0]
+            eng = words[index].split("::")[1]
+            right = int(words[index].split("::")[2])
+            wrong = int(words[index].split("::")[3])
+            
+            val = input(eng + " ... ")
+            if val == 'q':
+                learning = False
+                break
+            else:
+                print(pol)
+                val = input("Correct? (y)es / (n)o / (q)uit:  " )
+                
+                if val == 'y':
+                    packIndices.append(index)
+                    numcorrect += 1
+                    right += 1
+                elif val == 'n':
+                    packIndices.insert(math.ceil(numwords * .4), index)
+                    numcorrect = 0 #reset
+                    wrong += 1
+                elif val == 'q':
+                    learning = False
+                    break
+                
+            if numcorrect >= numwords:
+                val = input("You got them all correct, would you like to continue? (y)es / (n)o / (q)uit:  " )
+                if val == 'n' or val == 'q':
+                    learning = False
+                    
+            print("\n")
+            words[index] = pol + "::" + eng + "::" + str(right) + "::" + str(wrong)
+
+        print(words)
+        for i in list(range(len(words))):
+            words[i] += "\n"
+            
+        with open("vocablist.txt", "w+") as file:
+            file.writelines(words)
+
+        
+    elif selection == '2':
+        word_eng = input("English: " )
+        word_pol = input("Polish: ")
+        #Should check for duplicates in case word already exists
+        with open("vocablist.txt", "r+") as file:
+            data = file.readlines()
+        canadd = True
+        for line in data:
+            if line.split("::")[0] == word_pol:
+                canadd = False
+                break
+            
+        if canadd:
+            f = open("vocablist.txt", "a+")
+            f.write(word_pol + "::" + word_eng + "::0::0\n")
+            f.close()
+
+    elif selection == '3':
+        with open("vocablist.txt", "r") as file:
+            test = file.readlines()
+        for t in test:
+            print(t)
+            
+
+print("See ya next time!")
