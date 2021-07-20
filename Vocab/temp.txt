@@ -1,15 +1,15 @@
-zbliżony::similar::0::0::
-rozmówki::conversations::5::2::
-bielizna::lingerie::3::12::
-stosunek::relation::0::4::
-ławeczka::bench::3::14::
-traktować::to treat::1::4::
-zaskoczyć::to surprise::0::0::
-kanapa::couch::0::0::
-doceniony::appreciated::2::4::
-pudełko::box::0::0::
-przetłumaczyć::to translate::0::0::
-radować nas::to make us happy::0::0::
-typowy::typical::10::1::
 krawat::tie::3::0::
-przechodzić::to switch::0::0::
+typowy::typical::10::1::
+bielizna::lingerie::3::12::
+pracodawca::employer::2::6::
+rewelacyjny::sensational::0::1::
+stosunek::relation::0::4::
+doceniony::appreciated::2::4::
+plac::square (place)::0::0::
+pół na pół:: fifty-fifty::0::0::
+para::couple::0::0::
+wyrugować::to get rid of::0::0::
+wnuczka::granddaughter::1::2::
+świętować::to celebrate::0::0::
+język słowiański::Slavic language::4::5::
+rozmówki::conversations::5::2::

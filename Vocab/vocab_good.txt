@@ -1,4 +1,4 @@
 spędzać czas::to spend time::1::0::
-rozmówki::conversations::5::2::
-typowy::typical::10::1::
 krawat::tie::3::0::
+typowy::typical::10::1::
+rozmówki::conversations::5::2::

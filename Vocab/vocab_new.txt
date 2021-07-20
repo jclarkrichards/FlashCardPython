@@ -5,13 +5,11 @@ woźny::a janitor::0::0::
 powód::a reason::0::0::
 uśmiechnięty::smiling::0::0::
 niepewność::uncertainty::0::0::
-plac::square (place)::0::0::
 ławka::bench::0::0::
 motyw::pattern::0::0::
 skóra::leather::0::0::
 śmierdzieć::to stink::0::0::
 zakochany::in love::0::0::
-świętować::to celebrate::0::0::
 odwiedzać::to visit::0::0::
 zaprosić::to invite::0::0::
 wnuk::grandson::0::0::
@@ -19,11 +17,9 @@ pokolenie::generation::0::0::
 wygodny::comfortable::0::0::
 ulepszyć::to improve::0::0::
 korek::traffic jam::0::0::
-pół na pół:: fifty-fifty::0::0::
 wady i zalety::disadvantages and advantages::0::0::
 cukierek::candy::0::0::
 powód::reason::0::0::
-para::couple::0::0::
 oczekiwanie::expectation::0::0::
 kubek::mug::0::0::
 osobisty::personal::0::0::
@@ -47,16 +43,20 @@ dojeżdżać::to commute::2::3::
 randka::date::3::0::
 wiosna::spring::3::0::
 kawał drogi::a long way::3::0::
-język słowiański::Slavic language::4::5::
 korzystać::to use::5::8::
-wnuczka::granddaughter::1::2::
-wyrugować::to get rid of::0::0::
 obcokrajowiec::foreigner::7::13::
 zbliżony::similar::0::0::
 zaskoczyć::to surprise::0::0::
 kanapa::couch::0::0::
-doceniony::appreciated::2::4::
 pudełko::box::0::0::
 przetłumaczyć::to translate::0::0::
 radować nas::to make us happy::0::0::
 przechodzić::to switch::0::0::
+doceniony::appreciated::2::4::
+plac::square (place)::0::0::
+pół na pół:: fifty-fifty::0::0::
+para::couple::0::0::
+wyrugować::to get rid of::0::0::
+wnuczka::granddaughter::1::2::
+świętować::to celebrate::0::0::
+język słowiański::Slavic language::4::5::
