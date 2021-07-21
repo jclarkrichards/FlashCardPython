@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+narzeczony::fiance::0::2::
+>>>>>>> 418d9306cf024bd6f1318f32b576e6be8fe96d70
 wnuki::grandchildren::0::1::
-bielizna::lingerie::3::12::
-stosunek::relation::0::4::
 ławeczka::bench::3::14::
 traktować::to treat::1::4::
+<<<<<<< HEAD
 pracodawca::employer::2::7::
 narzeczony::fiance::0::3::
 rewelacyjny::sensational::0::2::
+=======
+bielizna::lingerie::3::12::
+pracodawca::employer::2::6::
+rewelacyjny::sensational::0::1::
+stosunek::relation::0::4::
+>>>>>>> 418d9306cf024bd6f1318f32b576e6be8fe96d70
