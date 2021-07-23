@@ -24,7 +24,6 @@ wnuczka::granddaughter::1::2::
 doceniony::appreciated::2::4::
 plac::square (place)::0::0::
 para::couple::0::0::
-
 radosny::joyful::0::0::
 wnuczka::granddaughter::1::2::
 cukierek::candy::0::0::

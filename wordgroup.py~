@@ -1,0 +1,17 @@
+"""
+Has format polish::english::right::wrong::
+
+"""
+
+class WordGroup(object):
+    def __init__(self, rawgroup):
+        self.raw = rawgroup
+        self.parsegroup()
+
+    def parsegroup(self):
+        self.polish = self.raw.split("::")[0]
+        self.english = self.raw.split("::")[1]
+        self.right = int(self.raw.split("::")[2])
+        self.wrong = int(self.raw.split("::")[3])
+
+    
