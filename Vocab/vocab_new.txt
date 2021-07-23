@@ -1,4 +1,3 @@
-radosny::joyful::0::0::
 rozstanie::a breakup::0::0::
 powód::a reason::0::0::
 motyw::pattern::0::0::
@@ -8,8 +7,6 @@ pokolenie::generation::0::0::
 wygodny::comfortable::0::0::
 korek::traffic jam::0::0::
 wady i zalety::disadvantages and advantages::0::0::
-cukierek::candy::0::0::
-powód::reason::0::0::
 oczekiwanie::expectation::0::0::
 kubek::mug::0::0::
 osobisty::personal::0::0::
@@ -23,10 +20,13 @@ randka::date::3::0::
 wiosna::spring::3::0::
 obcokrajowiec::foreigner::7::13::
 kanapa::couch::0::0::
-para::couple::0::0::
 wnuczka::granddaughter::1::2::
 doceniony::appreciated::2::4::
 plac::square (place)::0::0::
 para::couple::0::0::
-wnuczka::granddaughter::1::2::
 
+radosny::joyful::0::0::
+wnuczka::granddaughter::1::2::
+cukierek::candy::0::0::
+rewelacyjny::sensational::1::1::
+powód::reason::0::0::

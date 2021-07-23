@@ -1,28 +1,10 @@
-<<<<<<< HEAD
+rewelacyjny::sensational::0::3::
 pracodawca::employer::2::7::
-narzeczony::fiance::0::3::
-rewelacyjny::sensational::0::2::
-para::couple::0::0::
-rozpoznać::to recognize::0::0::
+radosny::joyful::0::0::
 wnuczka::granddaughter::1::2::
+cukierek::candy::0::0::
+krawat::tie::4::0::
 typowy::typical::11::1::
-spędzać czas::to spend time::2::0::
-skóra::leather::1::0::
-zaskoczyć::to surprise::0::0::
-=======
-krawat::tie::3::0::
-typowy::typical::10::1::
-bielizna::lingerie::3::12::
-pracodawca::employer::2::6::
-rewelacyjny::sensational::0::1::
-stosunek::relation::0::4::
-doceniony::appreciated::2::4::
-plac::square (place)::0::0::
-pół na pół:: fifty-fifty::0::0::
-para::couple::0::0::
-wyrugować::to get rid of::0::0::
-wnuczka::granddaughter::1::2::
-świętować::to celebrate::0::0::
-język słowiański::Slavic language::4::5::
-rozmówki::conversations::5::2::
->>>>>>> 418d9306cf024bd6f1318f32b576e6be8fe96d70
+rewelacyjny::sensational::1::1::
+para::couple::1::0::
+powód::reason::0::0::
