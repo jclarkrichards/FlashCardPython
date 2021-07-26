@@ -13,7 +13,8 @@ class Example(Frame):
         self.getNextWord()
         #self.current_word = self.getWord(self.wordindex)
         self.createUI()
-
+        self.setWordCount()
+        
     def createUI(self):
         #print(wordlist[0])
         self.master.title('Flash Card App')
@@ -26,13 +27,18 @@ class Example(Frame):
         self.rowconfigure(2, weight=1)
         self.rowconfigure(3, weight=1)
         
-        label = Label(self, text="English", bg="white").grid(padx=10, pady=5, row=0, column=0, columnspan=3, sticky=W)
+        label = Label(self, text="English", bg="white").grid(padx=10, pady=5, row=0, column=0, sticky=W)
         self.text = Label(self, text=self.wordgroup.english, width=30, height=2, bg="yellow", font=("Helvetica", "20", "bold"))
         self.text.grid(padx=10, pady=5, row=1, column=0, columnspan=3, sticky=E+W+N+S)
         
         button = Button(self, text="Flip", command=self.flip).grid(row=2, column=1, sticky=E+W, padx=5, pady=5)
         button2 = Button(self, text="NO", command=self.nextcardNo).grid(row=3, column=0, sticky=E+W, padx=5, pady=5)
         button3 = Button(self, text="YES", command=self.nextcardYes).grid(row=3, column=2, sticky=E+W, padx=5, pady=5)
+
+    def setWordCount(self):
+        '''To show how many words are in the pack, display in the upper right corner'''
+        label = Label(self, text=str(len(self.wordbag.wordlist)+1))#Add 1 because wordbag automatically pops one off
+        label.grid(padx=10, pady=5, row=0, column=2, sticky=E)
     
     def flip(self):
         '''Flip between english and polish'''

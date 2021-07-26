@@ -1,10 +1,10 @@
-rewelacyjny::sensational::0::3::
-pracodawca::employer::2::7::
-radosny::joyful::0::0::
-wnuczka::granddaughter::1::2::
-cukierek::candy::0::0::
-krawat::tie::4::0::
-typowy::typical::11::1::
-rewelacyjny::sensational::1::1::
-para::couple::1::0::
-powód::reason::0::0::
+bunt::rebellion::0::0::0::
+rzeczywistość::reality::0::0::0::
+łagodny::mild, gentle::0::0::0::
+śliczny::pretty::0::0::0::
+bajeczny::fabulous::0::0::0::
+słownictwo::vocabulary::0::0::0::
+przyjemność::pleasure::0::0::0::
+podsumować::to summarize::0::0::0::
+rogalik::croissant::0::0::0::
+zacny::decent::0::0::0::

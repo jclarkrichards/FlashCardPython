@@ -1,0 +1,114 @@
+powód::a reason::0::0::0::
+niespodzianka::surprise::0::0::0::
+torebka::purse::0::0::0::
+wnuczka::granddaughter::0::0::0::
+powód::reason::0::0::0::
+cukierek::candy::0::0::0::
+plac::square (place)::0::0::0::
+rewelacyjny::brilliant::0::0::0::
+wnuk::grandson::0::0::0::
+sporo::a lot of::0::0::0::
+skoro::since::0::0::0::
+ekipa::team::0::0::0::
+gest::gesture::0::0::0::
+dużo więcej::a lot more::0::0::0::
+uniknąć::to avoid::0::0::0::
+powtórzenie::repetition::0::0::0::
+synonim::synonym::0::0::0::
+nalegać::to insist::0::0::0::
+przydatność::usefulness::0::0::0::
+fantastyczny::fantastic::0::0::0::
+wyspany::well rested::0::0::0::
+wyspać się::to get enough sleep::0::0::0::
+oszałamiający::stunning::0::0::0::
+epicki::epic::0::0::0::
+przyść::to come (over)::0::0::0::
+sympatyczny::friendly::0::0::0::
+pierwsza klasa::top notch::0::0::0::
+do wynajęcia::for rent::0::0::0::
+upalny::scorching (hot)::0::0::0::
+nie do zniesienia::unbearable::0::0::0::
+uroczy::cute::0::0::0::
+całkiem, całkiem::quite good::0::0::0::
+ekstra::awesome::0::0::0::
+jednocześnie::at the same time::0::0::0::
+znakomity::excellent::0::0::0::
+spalić::to burn::0::0::0::
+niczego sobie::pretty good::0::0::0::
+urokliwy::charming::0::0::0::
+szałowy::groovy::0::0::0::
+zdecydowanie::definitely::0::0::0::
+przegapić::to miss out::0::0::0::
+poważny::serious::0::0::0::
+surowy::crude::0::0::0::
+zazwyczaj::usually::0::0::0::
+wymawiać::to pronounce::0::0::0::
+oddzielny::separate::0::0::0::
+główny::main::0::0::0::
+chodnik::pavement::0::0::0::
+przestępstwo::crime::0::0::0::
+plac zabaw::playground::0::0::0::
+wilgotny::humid::0::0::0::
+wilgotność::himidity::0::0::0::
+odwołać::to cancel::0::0::0::
+uczesać się::to comb (hair)::0::0::0::
+wygląd::one's appearance::0::0::0::
+bałagan::a mess::0::0::0::
+podsumowanie::a summary::0::0::0::
+powiedzonko::a saying::0::0::0::
+wymienić::to replace::0::0::0::
+na pierwszy rzut oka::at first glance::0::0::0::
+schody::stairs::0::0::0::
+przodek::ancestor::0::0::0::
+zapożyczać::to borrow::0::0::0::
+cecha::feature::0::0::0::
+ciągle::still::0::0::0::
+dekolt::cleavage::0::0::0::
+dochód::income::0::0::0::
+przekonany::convinced::0::0::0::
+zwierzyniec::zoo::0::0::0::
+znad::from above::0::0::0::
+zagadka::puzzle::0::0::0::
+dmuchać::to blow::0::0::0::
+szczery::honest::0::0::0::
+społeczny::social::0::0::0::
+nieśmiały::shy::0::0::0::
+różnorodność::variety::0::0::0::
+rozpoznać::to recognize::0::0::0::
+przyroda::nature::0::0::0::
+przeciętny::average::0::0::0::
+odkrycie::discovery::0::0::0::
+oburzające::outrageous::0::0::0::
+wyborny::delicious::0::0::0::
+wytrwałość::perseverance::0::0::0::
+logika::logic::0::0::0::
+zastąpić::to replace::0::0::0::
+drobny gest::a small gesture::0::0::0::
+społeczność::community::0::0::0::
+równowaga::balance::0::0::0::
+wynalazek::invention::0::0::0::
+określenie::term (word)::0::0::0::
+mnożyć::to multiply::0::0::0::
+dosłownie::literally::0::0::0::
+sugestia::a suggestion::0::0::0::
+przydatny::useful::0::0::0::
+ławka::bench::0::0::0::
+widok z lotu ptaka::birds eye view::0::0::0::
+przymiotnik::adjective::0::0::0::
+zauważyć::to notice::0::0::0::
+wzrok::eyesight::0::0::0::
+przeważnie::mostly::0::0::0::
+bułeczka::muffin::0::0::0::
+kawiarka::coffee pot::0::0::0::
+przemyć::to rinse, scrub::0::0::0::
+umyć::to wash::0::0::0::
+buziak::a kiss::0::0::0::
+rzeczywistość::reality
+łagodny::mild, gentle
+śliczny::pretty::0::0::0::
+bajeczny::fabulous::0::0::0::
+słownictwo::vocabulary::0::0::0::
+przyjemność::pleasure::0::0::0::
+podsumować::to summarize::0::0::0::
+rogalik::croissant::0::0::0::
+zacny::decent::0::0::0::

@@ -1,8 +1,0 @@
-rozmówki::conversations::5::2::
-typowy::typical::11::1::
-skóra::leather::1::0::
-krawat::tie::3::0::
-rozmówki::conversations::5::2::
-krawat::tie::4::0::
-typowy::typical::11::1::
-para::couple::1::0::
