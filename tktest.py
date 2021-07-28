@@ -8,12 +8,14 @@ class Example(Frame):
         #self.wordindex = 0
         self.english = True  #True for english and False for polish
         self.text = None
+        self.masterval = None
         self.wordbag = WordBag(wordlist)
         #self.wordlist = wordlist
         self.getNextWord()
         #self.current_word = self.getWord(self.wordindex)
         self.createUI()
         self.setWordCount()
+        self.masterlevel = 0
         
     def createUI(self):
         #print(wordlist[0])
@@ -27,7 +29,8 @@ class Example(Frame):
         self.rowconfigure(2, weight=1)
         self.rowconfigure(3, weight=1)
         
-        label = Label(self, text="English", bg="white").grid(padx=10, pady=5, row=0, column=0, sticky=W)
+        self.masterval = Label(self, text="0.0%", bg="white")
+        self.masterval.grid(padx=10, pady=5, row=0, column=0, sticky=W)
         self.text = Label(self, text=self.wordgroup.english, width=30, height=2, bg="yellow", font=("Helvetica", "20", "bold"))
         self.text.grid(padx=10, pady=5, row=1, column=0, columnspan=3, sticky=E+W+N+S)
         
@@ -47,17 +50,27 @@ class Example(Frame):
         
     def nextcardYes(self):
         '''Get the next card in the list'''
+        self.masterlevel += 1
         self.english = True
+        last = self.wordgroup.last
         self.wordgroup.incrementRight()
-        self.wordbag.placeWord(self.wordgroup.raw, 100)
+        if last == 1: #got it right last time so place at end
+            self.wordbag.placeWord(self.wordgroup.raw, 100)
+        else:#Got it wrong last so place it in the middle
+            self.wordbag.placeWord(self.wordgroup.raw, 50)
         self.getNextWord()
         self.displayWord()
 
     def nextcardNo(self):
         '''Get the next card in the list'''
+        self.masterlevel = 0
         self.english = True
+        last = self.wordgroup.last
         self.wordgroup.incrementWrong()
-        self.wordbag.placeWord(self.wordgroup.raw, 20)
+        if last == 0:  #got it wrong last time too, so see it more often
+            self.wordbag.placeWord(self.wordgroup.raw, 15) 
+        else:
+            self.wordbag.placeWord(self.wordgroup.raw, 30)
         self.getNextWord()
         self.displayWord()
 
@@ -71,6 +84,17 @@ class Example(Frame):
             self.text.configure(text=self.wordgroup.english)
         else:
             self.text.configure(text=self.wordgroup.polish)
+
+        #print(self.wordbag.wordlist)
+        val = self.masterlevel / len(self.wordbag.wordlist)
+        #print(val)
+        self.masterval.configure(text=str(abs(round(val, 2))))
+
+        if val >= 1.0:
+            print("Good job!.  You got them all right")
+            self.masterval.configure(text="0.0%")
+        else:
+            self.masterval.configure(text=str(abs(round(val, 2))*100)+"%")
 
 
 def main():

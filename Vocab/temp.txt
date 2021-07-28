@@ -1,10 +1,12 @@
-bunt::rebellion::0::0::0::
-rzeczywistość::reality::0::0::0::
-łagodny::mild, gentle::0::0::0::
-śliczny::pretty::0::0::0::
-bajeczny::fabulous::0::0::0::
-słownictwo::vocabulary::0::0::0::
-przyjemność::pleasure::0::0::0::
-podsumować::to summarize::0::0::0::
-rogalik::croissant::0::0::0::
-zacny::decent::0::0::0::
+a mess::bałagan::1::2::1::
+activities::zajęcia::0::0::0::
+groovy::szałowy::0::0::0::
+one's appearance::wygląd::0::0::0::
+usefulness::przydatność::0::0::1::
+reason::powód::0::1::0::
+crude::surowy::0::0::0::
+cute::uroczy::0::0::0::
+community::społeczność::0::1::1::
+to blow::dmuchać::1::2::1::
+croissant::rogalik::0::1::1::
+term (word)::określenie::0::0::0::
