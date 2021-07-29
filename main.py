@@ -14,7 +14,7 @@ class FlashLearn(Frame):
         self.masterval = None
         self.wordbag = None
      
-        self.masterlevel = 0
+        #self.masterlevel = 0
         self.radioChoiceVar = IntVar()
         self.packSizeVar = StringVar()
         self.setupUI()
@@ -22,6 +22,7 @@ class FlashLearn(Frame):
         self.createTab2()
 
         self.files = Files()
+        self.seenwords = [] #What words have we already seen on our run?
         
         
              
@@ -73,7 +74,8 @@ class FlashLearn(Frame):
         buttonUpdate = Button(self.tab2, text="Start", command=self.startLearning).grid(row=0, column=1, sticky=E+W, padx=10, pady=10)
 
     def startLearning(self):
-        self.masterlevel = 0
+        #self.masterlevel = 0
+        self.seenwords = []
         self.setWordCount()
         self.getNextWord()
         self.displayWord()
@@ -86,7 +88,7 @@ class FlashLearn(Frame):
             wordlist.append(line.split('\n')[0])
         self.wordbag = WordBag(wordlist)
         #print(len(wordlist))
-        self.masterlevel = 0
+        #self.masterlevel = 0
         self.setWordCount()
         self.getNextWord()
         self.displayWord()
@@ -95,6 +97,8 @@ class FlashLearn(Frame):
         '''Write to temp.txt file based off of the settings in tab1'''
         #print("Radio Selection = " + str(self.radioChoiceVar.get()))
         #print("Number of words to learn = " + self.packSizeVar.get())
+        if self.wordbag is not None:
+            self.files.fileWordsToFiles(self.wordbag.wordlist)
         radio_choice = int(self.radioChoiceVar.get())
         numwords = int(self.packSizeVar.get())
         #print(radio_choice, numwords)
@@ -114,7 +118,8 @@ class FlashLearn(Frame):
         
     def nextcardYes(self):
         '''Get the next card in the list'''
-        self.masterlevel += 1
+        self.wordAlreadySeen(self.wordgroup.english)
+        #self.masterlevel += 1
         self.setStartLanguage()
         last = self.wordgroup.last
         self.wordgroup.incrementRight()
@@ -127,7 +132,8 @@ class FlashLearn(Frame):
 
     def nextcardNo(self):
         '''Get the next card in the list'''
-        self.masterlevel = 0
+        self.seenwords = []
+        #self.masterlevel = 0
         self.setStartLanguage()
         last = self.wordgroup.last
         self.wordgroup.incrementWrong()
@@ -144,20 +150,20 @@ class FlashLearn(Frame):
 
     def displayWord(self):
         '''Display either the english or polish version of the word'''
-        print(self.masterlevel)
+        #print(self.masterlevel)
         if self.english:
             self.text.configure(text=self.wordgroup.english)
         else:
             self.text.configure(text=self.wordgroup.polish)
 
         #print(self.wordbag.wordlist)
-        val = self.masterlevel / len(self.wordbag.wordlist)
+        val = len(self.seenwords) / len(self.wordbag.wordlist)
         #print(val)
         self.masterval.configure(text=str(abs(round(val, 2))))
 
         if val >= 1.0:
-            print("Good job!.  You got them all right")
-            self.masterval.configure(text="0.0%")
+            print("Good job!.  You got them all right.  Go back and try some more!")
+            self.masterval.configure(text="100%")
         else:
             self.masterval.configure(text=str(round(abs(val)*100))+"%")
 
@@ -175,11 +181,18 @@ class FlashLearn(Frame):
                 self.english = False
 
     def onClosing(self):
-        print("Window is closing, do something")
+        '''When closing the window, save the words back into the vocab file'''
+        #print("Window is closing, do something")
         if self.wordbag is not None:
             #self.files.returnTempToVocabFile()
             self.files.fileWordsToFiles(self.wordbag.wordlist)
         self.master.destroy()
+
+    def wordAlreadySeen(self, word):
+        '''Check to see if the word is already in the seenword list.  If not, then add it'''
+        if word not in self.seenwords:
+            self.seenwords.append(word)
+        
 
 
 

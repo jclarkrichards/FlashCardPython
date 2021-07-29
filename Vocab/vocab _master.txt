@@ -126,3 +126,20 @@ to wake up::obudzić się
 to check::sprawdzić
 to make the bed::ścielić łóżko
 after waking up::po przebudzeniu
+former::były
+last (before this one)::zeszły
+current::obecny
+present (tense)::teraźniejszy
+future::przyszły
+past::przeszły
+sold out::wysprzedany
+abundance::obfitość
+designed for...::obliczony na
+service::obsługa
+two times as much as::dwa razy tyle, co
+to cool::chłodzić
+to possess (have)::posiadać
+significantly::znacznie
+forbidden::zabroniony
+freely::swobodnie
+flaw (defect)::wada
