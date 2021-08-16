@@ -2,6 +2,7 @@ surprise::niespodzianka::0::0::0::
 gesture::gest::0::0::0::
 friendly::sympatyczny::0::0::0::
 awesome::ekstra::0::0::0::
+<<<<<<< HEAD
 charming::urokliwy::0::0::0::
 crude::surowy::0::0::0::
 usually::zazwyczaj::0::0::0::
@@ -11,25 +12,31 @@ himidity::wilgotność::0::0::0::
 to cancel::odwołać::0::0::0::
 one's appearance::wygląd::0::0::0::
 ancestor::przodek::0::0::0::
+=======
+fabulous::bajeczny::0::0::0::
+crude::surowy::0::0::0::
+usually::zazwyczaj::0::0::0::
+pavement::chodnik::0::0::0::
+himidity::wilgotność::0::0::0::
+to cancel::odwołać::0::0::0::
+one's appearance::wygląd::0::0::0::
+to summarize::podsumować::0::0::0::
+>>>>>>> 5df755f5e00d5674a22648bb46b15a8ce8ce78fe
 cleavage::dekolt::0::0::0::
 income::dochód::0::0::0::
 convinced::przekonany::0::0::0::
-zoo::zwierzyniec::0::0::0::
 average::przeciętny::0::0::0::
-perseverance::wytrwałość::0::0::0::
-to replace::zastąpić::0::0::0::
-a small gesture::drobny gest::0::0::0::
 term (word)::określenie::0::0::0::
 pleasure::przyjemność::0::0::0::
 to notice::zauważyć::0::0::0::
 coffee pot::kawiarka::0::0::0::
-to rinse, scrub::przemyć::0::0::0::
 to catch::łapać::0::0::0::
 after waking up::po przebudzeniu::0::0::0::
 square (place)::plac::0::1::0::
 to get enough sleep::wyspać się::0::0::0::
 literally::dosłownie::0::1::0::
 croissant::rogalik::0::1::1::
+<<<<<<< HEAD
 vocabulary::słownictwo::0::1::0::
 a lot of::sporo::0::0::0::
 stairs::schody::0::0::0::
@@ -37,23 +44,28 @@ pretty::śliczny::0::0::0::
 balance::równowaga::0::0::0::
 since::skoro::0::0::0::
 a lot more::dużo więcej::0::0::0::
+=======
+community::społeczność::0::1::1::
+to insist::nalegać::0::0::0::
+pretty::śliczny::0::0::0::
+balance::równowaga::0::0::0::
+since::skoro::0::0::0::
+social::społeczny::0::0::0::
+>>>>>>> 5df755f5e00d5674a22648bb46b15a8ce8ce78fe
 to stand up (get up)::wstać::0::0::0::
 separate::oddzielny::0::0::0::
 a saying::powiedzonko::0::0::0::
 to avoid::uniknąć::0::0::0::
-from above::znad::0::0::0::
 exclusive::wyłączny::0::0::0::
 top notch::pierwsza klasa::0::0::0::
 order (sequence)::kolejność::0::0::0::
 at the same time::jednocześnie::0::0::0::
-invention::wynalazek::0::0::0::
 outrageous::oburzające::0::0::0::
 to recognize::rozpoznać::0::0::0::
 serious::poważny::0::0::0::
 brilliant::rewelacyjny::0::0::0::
 crime::przestępstwo::0::0::0::
 well rested::wyspany::0::0::0::
-cute::uroczy::0::0::0::
 activities::zajęcia::0::0::0::
 rebellion::bunt::0::0::0::
 usefulness::przydatność::0::0::1::
@@ -68,10 +80,8 @@ to make the bed::ścielić łóżko::1::2::1::
 purse::torebka::0::0::0::
 at first glance::na pierwszy rzut oka::0::0::0::
 a kiss::buziak::1::2::1::
-bench::ławka::1::1::0::
 shy::nieśmiały::0::0::0::
 grandson::wnuk::0::0::0::
-to pronounce::wymawiać::1::2::0::
 to replace::wymienić::1::3::2::
 somehow::jakoś::1::2::1::
 a mess::bałagan::1::2::1::
@@ -79,12 +89,14 @@ reality::rzeczywistość::1::2::1::
 a summary::podsumowanie::1::2::3::
 to wake up::obudzić się::1::4::0::
 still::ciągle::1::3::2::
+<<<<<<< HEAD
 pretty good::niczego sobie::1::3::1::
+=======
+a reason::powód::1::3::0::
+>>>>>>> 5df755f5e00d5674a22648bb46b15a8ce8ce78fe
 logic::logika::1::5::1::
-muffin::bułeczka::1::2::2::
 puzzle::zagadka::1::3::1::
 repetition::powtórzenie::1::4::0::
-team::ekipa::0::1::3::
 to miss out::przegapić::0::0::1::
 remotely::zdalnie::0::0::0::
 granddaughter::wnuczka::1::1::1::
@@ -95,6 +107,7 @@ mild, gentle::łagodny::0::0::0::
 epic::epicki::1::3::1::
 synonym::synonim::1::2::0::
 useful::przydatny::1::2::0::
+<<<<<<< HEAD
 to multiply::mnożyć::1::2::0::
 successful::udany::1::2::1::
 to summarize::podsumować::0::0::0::
@@ -110,3 +123,29 @@ reason::powód::1::3::0::
 fabulous::bajeczny::1::2::1::
 to wash::umyć::1::2::0::
 feature::cecha::1::2::1::
+=======
+only (sole)::jedyny::1::2::1::
+to pronounce::wymawiać::1::4::0::
+muffin::bułeczka::1::4::2::
+main::główny::1::3::0::
+zoo::zwierzyniec::1::2::1::
+vocabulary::słownictwo::1::4::0::
+a lot more::dużo więcej::1::2::1::
+team::ekipa::1::3::4::
+to replace::zastąpić::1::3::1::
+to comb (hair)::uczesać się::1::6::3::
+playground::plac zabaw::1::3::1::
+to rinse, scrub::przemyć::1::3::1::
+cute::uroczy::1::3::1::
+successful::udany::1::4::1::
+to multiply::mnożyć::1::4::0::
+a lot of::sporo::1::3::1::
+ancestor::przodek::1::3::2::
+perseverance::wytrwałość::1::3::1::
+feature::cecha::1::3::0::
+charming::urokliwy::1::4::4::
+pretty good::niczego sobie::1::5::3::
+bench::ławka::1::5::2::
+a small gesture::drobny gest::1::4::0::
+stairs::schody::1::4::1::
+>>>>>>> 5df755f5e00d5674a22648bb46b15a8ce8ce78fe
