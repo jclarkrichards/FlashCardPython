@@ -1,19 +1,15 @@
 surprise::niespodzianka::0::0::0::
 gesture::gest::0::0::0::
-to come (over)::przyść::0::0::0::
 friendly::sympatyczny::0::0::0::
 awesome::ekstra::0::0::0::
 charming::urokliwy::0::0::0::
-fabulous::bajeczny::0::0::0::
 crude::surowy::0::0::0::
 usually::zazwyczaj::0::0::0::
 main::główny::0::0::0::
-pavement::chodnik::0::0::0::
 playground::plac zabaw::0::0::0::
 himidity::wilgotność::0::0::0::
 to cancel::odwołać::0::0::0::
 one's appearance::wygląd::0::0::0::
-to summarize::podsumować::0::0::0::
 ancestor::przodek::0::0::0::
 cleavage::dekolt::0::0::0::
 income::dochód::0::0::0::
@@ -25,28 +21,22 @@ to replace::zastąpić::0::0::0::
 a small gesture::drobny gest::0::0::0::
 term (word)::określenie::0::0::0::
 pleasure::przyjemność::0::0::0::
-birds eye view::widok z lotu ptaka::0::0::0::
-adjective::przymiotnik::0::0::0::
 to notice::zauważyć::0::0::0::
 coffee pot::kawiarka::0::0::0::
 to rinse, scrub::przemyć::0::0::0::
 to catch::łapać::0::0::0::
 after waking up::po przebudzeniu::0::0::0::
-reason::powód::0::1::0::
 square (place)::plac::0::1::0::
 to get enough sleep::wyspać się::0::0::0::
 literally::dosłownie::0::1::0::
 croissant::rogalik::0::1::1::
 vocabulary::słownictwo::0::1::0::
-community::społeczność::0::1::1::
 a lot of::sporo::0::0::0::
-to insist::nalegać::0::0::0::
 stairs::schody::0::0::0::
 pretty::śliczny::0::0::0::
 balance::równowaga::0::0::0::
 since::skoro::0::0::0::
 a lot more::dużo więcej::0::0::0::
-social::społeczny::0::0::0::
 to stand up (get up)::wstać::0::0::0::
 separate::oddzielny::0::0::0::
 a saying::powiedzonko::0::0::0::
@@ -59,11 +49,9 @@ at the same time::jednocześnie::0::0::0::
 invention::wynalazek::0::0::0::
 outrageous::oburzające::0::0::0::
 to recognize::rozpoznać::0::0::0::
-to wash::umyć::0::0::0::
 serious::poważny::0::0::0::
 brilliant::rewelacyjny::0::0::0::
 crime::przestępstwo::0::0::0::
-feature::cecha::0::0::0::
 well rested::wyspany::0::0::0::
 cute::uroczy::0::0::0::
 activities::zajęcia::0::0::0::
@@ -91,9 +79,7 @@ reality::rzeczywistość::1::2::1::
 a summary::podsumowanie::1::2::3::
 to wake up::obudzić się::1::4::0::
 still::ciągle::1::3::2::
-a reason::powód::1::3::0::
 pretty good::niczego sobie::1::3::1::
-to comb (hair)::uczesać się::1::3::2::
 logic::logika::1::5::1::
 muffin::bułeczka::1::2::2::
 puzzle::zagadka::1::3::1::
@@ -111,4 +97,16 @@ synonym::synonim::1::2::0::
 useful::przydatny::1::2::0::
 to multiply::mnożyć::1::2::0::
 successful::udany::1::2::1::
-only (sole)::jedyny::1::2::1::
+to summarize::podsumować::0::0::0::
+social::społeczny::1::1::1::
+community::społeczność::1::2::2::
+adjective::przymiotnik::0::0::0::
+birds eye view::widok z lotu ptaka::0::0::0::
+pavement::chodnik::0::0::0::
+only (sole)::jedyny::1::3::1::
+to insist::nalegać::1::2::1::
+to come (over)::przyść::1::2::1::
+reason::powód::1::3::0::
+fabulous::bajeczny::1::2::1::
+to wash::umyć::1::2::0::
+feature::cecha::1::2::1::

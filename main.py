@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import *
 from tkinter import ttk
+#from tkinter.ttk import *
 from wordgroup import WordGroup
 from words import WordBag
 from files import Files
