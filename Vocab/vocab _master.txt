@@ -143,3 +143,27 @@ significantly::znacznie
 forbidden::zabroniony
 freely::swobodnie
 flaw (defect)::wada
+surroundings::otoczenia
+to stress out::zestresować
+to catch up with sth::nadrobić coś
+demanding::roszczeniowy
+to deal with sth::poradzić sobie z czymś
+spouse::małżonek
+to imagine::wyobrażać sobie
+nation::naród
+main reason::główny powód
+pandemic::pandemia
+to solve::rozwiązać
+under control::pod kontrolą
+technically::zasadniczo
+solution::rozwiązanie
+to lose a job::stracić pracę
+stressful::stresujący
+that's sth I'm passionate about::to mnie kręci
+hobby::pasja
+escape::ucieczka
+rational::racjonalny
+opportunity::możliwość
+it looks like it's going to rain::zbiera się na deszcz
+upsetting::przykry
+
