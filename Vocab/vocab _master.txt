@@ -143,3 +143,38 @@ significantly::znacznie
 forbidden::zabroniony
 freely::swobodnie
 flaw (defect)::wada
+rude::niegrzeczny
+procedure::procedura
+object::obiekt
+directly::bezpośrednio
+to borrow::pożyczać
+bill::rachunek
+entrance::wejście
+correct::właściwy
+verb::czasownik
+precise::precyzyjny
+random::przypadkowy
+separate::osobny
+activity::czynność
+only child::jedynak / jeynaczka
+siblings::rodzeństwo
+to respect::szanować
+parent::rodzic
+cousins::kuzynostwo
+widow::wdowa
+widower::wdowiec
+father-in-law::teść
+mother-in-law::teściowa
+son-in-law::zięć
+daughter-in-law::synowa
+brother-in-law::szwagier
+sister-in-law::bratowa
+to visit::odwiedzać
+to clean::sprzątać
+to share::dzielić się
+to tease::dokuczać
+bunk bed::łóżko piętrowe
+relationship::związek
+relation::relacja
+offended/insulted::urażony
+to be offended::czuć się urażony
