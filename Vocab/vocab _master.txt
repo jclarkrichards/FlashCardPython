@@ -166,4 +166,30 @@ rational::racjonalny
 opportunity::możliwość
 it looks like it's going to rain::zbiera się na deszcz
 upsetting::przykry
+rabbit::królik
+quarantine::kwarantanna
+prison::więzienie
+rape::gwałt
+rash::wysypka
+raspberry::malina
+absolutely::absolutnie
+regularly::regularnie
+to meditate::medytować
+drowsy::przymulony
+to waste time::pożeracz czasu
+air::powietrze
+to irritate sb::poddenerwować
+to ruin::zepsuć
+to avoid::unikać
+a push-up::pompka
+morning routine::poranna rutyna
+classes::zajęcia
+to check::sprawdzać
+fresh::świeży
+to scroll through::przeglądać
+social media::media społecznościowe
+preposition::przyimek
+noun::rzeczownik
+verb::czasownik
+adverb::przysłówek
 
