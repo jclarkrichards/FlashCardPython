@@ -1,12 +1,13 @@
 """
-A WordBag object contains a list of raw word groups.  This class handles sorting and 
-placing the raw word groups back into the bag and taking them out of the bag.
+A Deck object contains a list of cards.  This class handles sorting and 
+placing the raw word groups back into the deck and taking them out of the deck.
 """
 import math
 
-class WordBag(object):
+class Deck(object):
     def __init__(self, wordlist):
         self.wordlist = wordlist
+        #print(self.wordlist)
 
     def getNextWord(self):
         '''Just pop off the word at the top of the <stack>.  Not really a stack though.'''
