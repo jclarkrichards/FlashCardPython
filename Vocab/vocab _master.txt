@@ -178,3 +178,53 @@ relationship::związek
 relation::relacja
 offended/insulted::urażony
 to be offended::czuć się urażony
+surroundings::otoczenia
+to stress out::zestresować
+to catch up with sth::nadrobić coś
+demanding::roszczeniowy
+to deal with sth::poradzić sobie z czymś
+spouse::małżonek
+to imagine::wyobrażać sobie
+nation::naród
+main reason::główny powód
+pandemic::pandemia
+to solve::rozwiązać
+under control::pod kontrolą
+technically::zasadniczo
+solution::rozwiązanie
+to lose a job::stracić pracę
+stressful::stresujący
+that's sth I'm passionate about::to mnie kręci
+hobby::pasja
+escape::ucieczka
+rational::racjonalny
+opportunity::możliwość
+it looks like it's going to rain::zbiera się na deszcz
+upsetting::przykry
+rabbit::królik
+quarantine::kwarantanna
+prison::więzienie
+rape::gwałt
+rash::wysypka
+raspberry::malina
+absolutely::absolutnie
+regularly::regularnie
+to meditate::medytować
+drowsy::przymulony
+to waste time::pożeracz czasu
+air::powietrze
+to irritate sb::poddenerwować
+to ruin::zepsuć
+to avoid::unikać
+a push-up::pompka
+morning routine::poranna rutyna
+classes::zajęcia
+to check::sprawdzać
+fresh::świeży
+to scroll through::przeglądać
+social media::media społecznościowe
+preposition::przyimek
+noun::rzeczownik
+verb::czasownik
+adverb::przysłówek
+

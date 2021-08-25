@@ -1,8 +1,19 @@
+<<<<<<< HEAD
 surprise::niespodzianka::0::0::0::
 gesture::gest::0::0::0::
 to come (over)::przyść::0::0::0::
+=======
+friendly::sympatyczny::0::0::0::
+crude::surowy::0::0::0::
+himidity::wilgotność::0::0::0::
+>>>>>>> 6153876a689f8c12d72f1513f2a845cca3f55de4
 to cancel::odwołać::0::0::0::
+ancestor::przodek::0::0::0::
+fabulous::bajeczny::0::0::0::
+crude::surowy::0::0::0::
+pavement::chodnik::0::0::0::
 one's appearance::wygląd::0::0::0::
+<<<<<<< HEAD
 cleavage::dekolt::0::0::0::
 average::przeciętny::0::0::0::
 pleasure::przyjemność::0::0::0::
@@ -31,33 +42,76 @@ to replace::wymienić::1::3::2::
 somehow::jakoś::1::2::1::
 a summary::podsumowanie::1::2::3::
 still::ciągle::1::3::2::
+=======
+term (word)::określenie::0::0::0::
+to notice::zauważyć::0::0::0::
+coffee pot::kawiarka::0::0::0::
+to get enough sleep::wyspać się::0::0::0::
+croissant::rogalik::0::1::1::
+vocabulary::słownictwo::0::1::0::
+pretty::śliczny::0::0::0::
+balance::równowaga::0::0::0::
+community::społeczność::0::1::1::
+pretty::śliczny::0::0::0::
+balance::równowaga::0::0::0::
+social::społeczny::0::0::0::
+a saying::powiedzonko::0::0::0::
+exclusive::wyłączny::0::0::0::
+top notch::pierwsza klasa::0::0::0::
+outrageous::oburzające::0::0::0::
+crime::przestępstwo::0::0::0::
+discovery::odkrycie::1::1::0::
+nature::przyroda::1::1::1::
+excellent::znakomity::0::0::0::
+somehow::jakoś::1::2::1::
+a mess::bałagan::1::2::1::
+to wake up::obudzić się::1::4::0::
+>>>>>>> 6153876a689f8c12d72f1513f2a845cca3f55de4
 a reason::powód::1::3::0::
 logic::logika::1::5::1::
 puzzle::zagadka::1::3::1::
 repetition::powtórzenie::1::4::0::
-to miss out::przegapić::0::0::1::
-remotely::zdalnie::0::0::0::
 granddaughter::wnuczka::1::1::1::
 honest::szczery::0::0::0::
+<<<<<<< HEAD
 groovy::szałowy::0::0::0::
 useful::przydatny::1::2::0::
 only (sole)::jedyny::1::2::1::
+=======
+mild, gentle::łagodny::0::0::0::
+epic::epicki::1::3::1::
+useful::przydatny::1::2::0::
+to summarize::podsumować::0::0::0::
+community::społeczność::1::2::2::
+adjective::przymiotnik::0::0::0::
+birds eye view::widok z lotu ptaka::0::0::0::
+reason::powód::1::3::0::
+fabulous::bajeczny::1::2::1::
+to wash::umyć::1::2::0::
+>>>>>>> 6153876a689f8c12d72f1513f2a845cca3f55de4
 muffin::bułeczka::1::4::2::
 main::główny::1::3::0::
 zoo::zwierzyniec::1::2::1::
 vocabulary::słownictwo::1::4::0::
+<<<<<<< HEAD
 a lot more::dużo więcej::1::2::1::
 to replace::zastąpić::1::3::1::
+=======
+to replace::zastąpić::1::3::1::
+to rinse, scrub::przemyć::1::3::1::
+>>>>>>> 6153876a689f8c12d72f1513f2a845cca3f55de4
 cute::uroczy::1::3::1::
-successful::udany::1::4::1::
-to multiply::mnożyć::1::4::0::
-a lot of::sporo::1::3::1::
-ancestor::przodek::1::3::2::
-perseverance::wytrwałość::1::3::1::
 feature::cecha::1::3::0::
 pretty good::niczego sobie::1::5::3::
-bench::ławka::1::5::2::
+literally::dosłownie::0::1::0::
+only (sole)::jedyny::1::2::1::
+social::społeczny::1::1::1::
+well rested::wyspany::0::0::0::
+pleasure::przyjemność::0::0::0::
+shy::nieśmiały::0::0::0::
+surprise::niespodzianka::0::0::0::
 a small gesture::drobny gest::1::4::0::
+<<<<<<< HEAD
 stairs::schody::1::4::1::
 grandson::wnuk::1::4::1::
 awesome::ekstra::1::5::4::
@@ -105,3 +159,74 @@ since::skoro::1::5::1::
 to pronounce::wymawiać::1::5::0::
 to make the bed::ścielić łóżko::1::3::1::
 a kiss::buziak::1::5::3::
+=======
+order (sequence)::kolejność::0::0::0::
+charming::urokliwy::0::0::0::
+to pronounce::wymawiać::1::4::0::
+successful::udany::1::4::1::
+a summary::podsumowanie::1::2::3::
+to insist::nalegać::0::0::0::
+average::przeciętny::0::0::0::
+successful::udany::1::2::1::
+ancestor::przodek::1::3::2::
+to check::sprawdzić::1::2::0::
+awesome::ekstra::0::0::0::
+to multiply::mnożyć::1::2::0::
+activities::zajęcia::0::0::0::
+main::główny::0::0::0::
+charming::urokliwy::1::4::4::
+a kiss::buziak::1::2::1::
+reality::rzeczywistość::1::2::1::
+cleavage::dekolt::0::0::0::
+feature::cecha::1::5::2::
+convinced::przekonany::1::3::1::
+still::ciągle::1::6::3::
+groovy::szałowy::1::2::2::
+a lot of::sporo::1::6::2::
+pavement::chodnik::1::4::0::
+at the same time::jednocześnie::1::3::1::
+remotely::zdalnie::1::3::1::
+to summarize::podsumować::1::3::2::
+gesture::gest::1::3::0::
+to insist::nalegać::1::4::2::
+usually::zazwyczaj::1::4::0::
+to make the bed::ścielić łóżko::1::4::2::
+only (sole)::jedyny::1::4::1::
+separate::oddzielny::1::2::2::
+usefulness::przydatność::1::2::2::
+to avoid::uniknąć::1::2::2::
+a lot more::dużo więcej::1::4::1::
+himidity::wilgotność::1::3::0::
+synonym::synonim::1::4::0::
+playground::plac zabaw::1::3::1::
+decent::zacny::0::0::2::
+after waking up::po przebudzeniu::0::0::1::
+brilliant::rewelacyjny::0::0::2::
+to recognize::rozpoznać::0::0::0::
+a lot more::dużo więcej::1::1::0::
+serious::poważny::1::1::0::
+since::skoro::0::0::0::
+grandson::wnuk::0::0::0::
+usually::zazwyczaj::0::0::0::
+to comb (hair)::uczesać się::1::6::3::
+at first glance::na pierwszy rzut oka::0::0::0::
+pretty good::niczego sobie::0::3::2::
+since::skoro::0::0::0::
+one's appearance::wygląd::1::1::1::
+to multiply::mnożyć::1::5::0::
+to cancel::odwołać::0::1::3::
+playground::plac zabaw::1::4::1::
+rebellion::bunt::1::6::1::
+bench::ławka::1::6::2::
+team::ekipa::1::5::6::
+to miss out::przegapić::1::2::6::
+stairs::schody::1::5::1::
+income::dochód::1::5::2::
+to stand up (get up)::wstać::1::2::0::
+to burn::spalić::1::3::4::
+to replace::wymienić::1::5::3::
+stairs::schody::1::2::0::
+a lot of::sporo::1::2::1::
+to catch::łapać::1::6::0::
+square (place)::plac::1::5::0::
+>>>>>>> 6153876a689f8c12d72f1513f2a845cca3f55de4
