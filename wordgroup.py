@@ -65,7 +65,7 @@ class Card(object):
         '''learn value determines how well you know the word. Returns value between 0 and 1'''
         #val = (self.right / (self.right + self.wrong)) + 0.5 * (self.lastval) * self.streak
         #val = 0.05 + self.lastdict[self.lastval] * self.streak
-        val = 0.05 + self.easing * self.streak
+        val = 0.1 + self.easing * self.streak
         val = min(val, 1)
         val = max(val, 0)
         return val

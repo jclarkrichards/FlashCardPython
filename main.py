@@ -127,7 +127,7 @@ class FlashLearn(Frame):
         self.setStartLanguage()
         self.card.incrementRight()
         learnvalue = self.card.getLearnValue()
-        print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
+        #print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
         self.deck.placeWord(self.card.raw, learnvalue*100)
         #last = self.card.last       
         #if last == 1: #got it right last time so place at end
@@ -144,7 +144,7 @@ class FlashLearn(Frame):
         self.setStartLanguage()
         self.card.incrementWrong()
         learnvalue = self.card.getLearnValue()
-        print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
+        #print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
         self.deck.placeWord(self.card.raw, learnvalue*100)
         #last = self.card.last       
         #if last == -1:  #got it wrong last time too, so see it more often
@@ -165,6 +165,21 @@ class FlashLearn(Frame):
             self.text.configure(text=self.card.english)
         else:
             self.text.configure(text=self.card.polish)
+        self.setWordColor()
+
+    def setWordColor(self):
+        #Change the color of the background to red, yellow, or green depending on how well you know the word
+        learnval = self.card.getLearnValue()
+        print("Learn value of this word = "+str(learnval) + " streak = " + str(self.card.streak))
+        if learnval < 0.5:
+            print("You don't know this word yet")
+            self.text.configure(bg='#F00')
+        elif learnval < 0.85:
+            print("You kind of know this word")
+            self.text.configure(bg="#FF0")
+        else:
+            print("You know this word well")
+            self.text.configure(bg="#0F0")
 
         #print(self.deck.wordlist)
         val = len(self.seenwords) / len(self.deck.wordlist)

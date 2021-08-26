@@ -1,4 +1,3 @@
-purse::torebka::0::0::0::0::0::
 granddaughter::wnuczka::0::0::0::0::0::
 candy::cukierek::0::0::0::0::0::
 a lot of::sporo::0::0::0::0::0::
@@ -10,33 +9,24 @@ well rested::wyspany::0::0::0::0::0::
 to get enough sleep::wyspać się::0::0::0::0::0::
 stunning::oszałamiający::0::0::0::0::0::
 scorching (hot)::upalny::0::0::0::0::0::
-unbearable::nie do zniesienia::0::0::0::0::0::
 cute::uroczy::0::0::0::0::0::
 awesome::ekstra::0::0::0::0::0::
 at the same time::jednocześnie::0::0::0::0::0::
 to burn::spalić::0::0::0::0::0::
 decent::zacny::0::0::0::0::0::
-to miss out::przegapić::0::0::0::0::0::
-separate::oddzielny::0::0::0::0::0::
 main::główny::0::0::0::0::0::
-crime::przestępstwo::0::0::0::0::0::
 humid::wilgotny::0::0::0::0::0::
 to comb (hair)::uczesać się::0::0::0::0::0::
-one's appearance::wygląd::0::0::0::0::0::
-a mess::bałagan::0::0::0::0::0::
 to summarize::podsumować::0::0::0::0::0::
 a summary::podsumowanie::0::0::0::0::0::
 a saying::powiedzonko::0::0::0::0::0::
-to replace::wymienić::0::0::0::0::0::
 stairs::schody::0::0::0::0::0::
 ancestor::przodek::0::0::0::0::0::
 to borrow::zapożyczać::0::0::0::0::0::
-rebellion::bunt::0::0::0::0::0::
 feature::cecha::0::0::0::0::0::
 income::dochód::0::0::0::0::0::
 convinced::przekonany::0::0::0::0::0::
 zoo::zwierzyniec::0::0::0::0::0::
-from above::znad::0::0::0::0::0::
 to blow::dmuchać::0::0::0::0::0::
 shy::nieśmiały::0::0::0::0::0::
 reality::rzeczywistość::0::0::0::0::0::
@@ -45,77 +35,53 @@ discovery::odkrycie::0::0::0::0::0::
 perseverance::wytrwałość::0::0::0::0::0::
 to replace::zastąpić::0::0::0::0::0::
 a small gesture::drobny gest::0::0::0::0::0::
-community::społeczność::0::0::0::0::0::
 balance::równowaga::0::0::0::0::0::
 to multiply::mnożyć::0::0::0::0::0::
 literally::dosłownie::0::0::0::0::0::
 pleasure::przyjemność::0::0::0::0::0::
 bench::ławka::0::0::0::0::0::
-birds eye view::widok z lotu ptaka::0::0::0::0::0::
-adjective::przymiotnik::0::0::0::0::0::
-to notice::zauważyć::0::0::0::0::0::
 eyesight::wzrok::0::0::0::0::0::
-muffin::bułeczka::0::0::0::0::0::
-to rinse, scrub::przemyć::0::0::0::0::0::
 to wash::umyć::0::0::0::0::0::
-croissant::rogalik::0::0::0::0::0::
 order (sequence)::kolejność::0::0::0::0::0::
 activities::zajęcia::0::0::0::0::0::
-successful::udany::0::0::0::0::0::
-after waking up::po przebudzeniu::0::0::0::0::0::
 former::były::0::0::0::0::0::
 current::obecny::0::0::0::0::0::
 abundance::obfitość::0::0::0::0::0::
 service::obsługa::0::0::0::0::0::
 two times as much as::dwa razy tyle, co::0::0::0::0::0::
 to cool::chłodzić::0::0::0::0::0::
-to possess (have)::posiadać::0::0::0::0::0::
 freely::swobodnie::0::0::0::0::0::
 flaw (defect)::wada::0::0::0::0::0::
 procedure::procedura::0::0::0::0::0::
 to borrow::pożyczać::0::0::0::0::0::
-correct::właściwy::0::0::0::0::0::
 precise::precyzyjny::0::0::0::0::0::
 random::przypadkowy::0::0::0::0::0::
 to respect::szanować::0::0::0::0::0::
 widow::wdowa::0::0::0::0::0::
 mother-in-law::teściowa::0::0::0::0::0::
 daughter-in-law::synowa::0::0::0::0::0::
-to visit::odwiedzać::0::0::0::0::0::
 to clean::sprzątać::0::0::0::0::0::
 bunk bed::łóżko piętrowe::0::0::0::0::0::
-relationship::związek::0::0::0::0::0::
 relation::relacja::0::0::0::0::0::
 offended/insulted::urażony::0::0::0::0::0::
 to be offended::czuć się urażony::0::0::0::0::0::
-surroundings::otoczenia::0::0::0::0::0::
 to catch up with sth::nadrobić coś::0::0::0::0::0::
 demanding::roszczeniowy::0::0::0::0::0::
 nation::naród::0::0::0::0::0::
-pandemic::pandemia::0::0::0::0::0::
 under control::pod kontrolą::0::0::0::0::0::
 technically::zasadniczo::0::0::0::0::0::
 hobby::pasja::0::0::0::0::0::
 escape::ucieczka::0::0::0::0::0::
 it looks like it's going to rain::zbiera się na deszcz::0::0::0::0::0::
 rabbit::królik::0::0::0::0::0::
-raspberry::malina::0::0::0::0::0::
-to meditate::medytować::0::0::0::0::0::
-drowsy::przymulony::0::0::0::0::0::
-to waste time::pożeracz czasu::0::0::0::0::0::
-to ruin::zepsuć::0::0::0::0::0::
 to avoid::unikać::0::0::0::0::0::
 a push-up::pompka::0::0::0::0::0::
-morning routine::poranna rutyna::0::0::0::0::0::
 to check::sprawdzać::0::0::0::0::0::
 preposition::przyimek::0::0::0::0::0::
 adverb::przysłówek::0::0::0::0::0::
-coffee pot::kawiarka::0::0::0::0::0::
-directly::bezpośrednio::0::0::0::0::0::
 average::przeciętny::0::0::0::0::0::
 sold out::wysprzedany::0::0::0::0::0::
 parent::rodzic::0::0::0::0::0::
-epic::epicki::0::0::0::0::0::
 reason::powód::0::0::0::0::0::
 quarantine::kwarantanna::0::0::0::0::0::
 rash::wysypka::0::0::0::0::0::
@@ -123,80 +89,57 @@ nature::przyroda::0::0::0::0::0::
 rational::racjonalny::0::0::0::0::0::
 cleavage::dekolt::0::0::0::0::0::
 pavement::chodnik::5::0::1::5::0::
-noun::rzeczownik::1::0::1::1::0::
-logic::logika::4::1::1::4::0::
 last (before this one)::zeszły::5::1::1::5::0::
 term (word)::określenie::5::3::1::5::0::
 at first glance::na pierwszy rzut oka::3::1::1::3::0::
 past::przeszły::3::2::1::3::0::
 to avoid::uniknąć::4::0::1::4::0::
 quite good::całkiem, całkiem::5::1::1::5::0::
-main reason::główny powód::5::0::1::5::0::
-to stand up (get up)::wstać::5::0::1::5::0::
 to lose a job::stracić pracę::0::0::0::0::0::
 gesture::gest::0::0::0::0::0::
 a kiss::buziak::2::1::1::2::0::
 rape::gwałt::6::1::1::6::0::
 for rent::do wynajęcia::3::4::-1::1::0::
 grandson::wnuk::6::0::1::6::0::
-serious::poważny::5::0::1::5::0::
 synonym::synonim::6::0::1::6::0::
 himidity::wilgotność::5::1::1::5::0::
 sister-in-law::bratowa::6::1::1::6::0::
 top notch::pierwsza klasa::6::1::1::6::0::
 to insist::nalegać::6::2::1::6::0::
 since::skoro::0::0::0::0::0::
-cousins::kuzynostwo::0::0::0::0::0::
 verb::czasownik::0::0::0::0::0::
 to catch::łapać::0::0::0::0::0::
 entrance::wejście::0::0::0::0::0::
 siblings::rodzeństwo::0::0::0::0::0::
 a lot more::dużo więcej::0::0::0::0::0::
 playground::plac zabaw::4::0::1::4::0::
-significantly::znacznie::0::0::0::0::0::
 object::obiekt::0::0::0::0::0::
 honest::szczery::1::1::1::1::0::
-to check::sprawdzić::0::0::0::0::0::
 remotely::zdalnie::5::0::1::5::0::
-excellent::znakomity::0::1::-1::1::0::
-air::powietrze::1::0::1::1::0::
 mild, gentle::łagodny::4::0::1::4::0::
 to irritate sb::poddenerwować::4::1::1::4::0::
 pretty good::niczego sobie::4::1::1::4::0::
-regularly::regularnie::4::0::1::4::0::
-to imagine::wyobrażać sobie::0::0::0::0::0::
-usually::zazwyczaj::4::0::1::4::0::
 prison::więzienie::0::1::-1::0::0::
-to pronounce::wymawiać::2::0::1::1::0::
 social media::media społecznościowe::2::1::1::1::0::
-separate::osobny::2::2::1::1::0::
 designed for...::obliczony na::0::0::0::0::0::
-social::społeczny::0::0::0::0::0::
 to tease::dokuczać::0::0::0::0::0::
 pretty::śliczny::0::0::0::0::0::
 crude::surowy::0::0::0::0::0::
 exclusive::wyłączny::0::0::0::0::0::
-to cancel::odwołać::0::0::0::0::0::
 opportunity::możliwość::2::2::1::2::0::
 invention::wynalazek::2::3::1::2::0::
 useful::przydatny::3::0::1::3::0::
-to share::dzielić się::0::0::0::0::0::
 brother-in-law::szwagier::5::1::1::5::0::
-groovy::szałowy::4::1::1::4::0::
 father-in-law::teść::3::1::1::3::0::
 classes::zajęcia::4::0::1::4::0::
 widower::wdowiec::4::2::1::4::0::
 to wake up::obudzić się::4::1::1::4::0::
 surprise::niespodzianka::4::1::1::4::0::
-mostly::przeważnie::0::1::-1::0::0::
 absolutely::absolutnie::1::1::1::1::0::
-friendly::sympatyczny::4::1::1::4::0::
 outrageous::oburzające::4::3::1::2::0::
 delicious::wyborny::0::0::0::0::0::
-a reason::powód::0::0::0::0::0::
 spouse::małżonek::0::0::0::0::0::
 to make the bed::ścielić łóżko::2::0::1::2::0::
-verb::czasownik::2::0::1::2::0::
 activity::czynność::4::2::-1::2::0::
 rude::niegrzeczny::1::1::1::1::0::
 to come (over)::przyść::2::1::1::2::0::
@@ -204,22 +147,79 @@ charming::urokliwy::4::2::1::3::0::
 fabulous::bajeczny::4::1::1::4::0::
 solution::rozwiązanie::7::3::1::3::0::
 puzzle::zagadka::4::1::1::4::0::
-to stress out::zestresować::0::0::0::0::0::
-a suggestion::sugestia::5::0::1::5::0::
 future::przyszły::0::0::0::0::0::
 present (tense)::teraźniejszy::7::1::1::7::0::
 definitely::zdecydowanie::0::0::0::0::0::
-bill::rachunek::3::0::1::3::0::
-that's sth I'm passionate about::to mnie kręci::6::1::1::6::0::
 brilliant::rewelacyjny::8::1::1::8::0::
-stressful::stresujący::5::1::1::5::0::
 fresh::świeży::7::0::1::7::0::
 upsetting::przykry::10::3::1::8::0::
 team::ekipa::7::1::1::7::0::
-to scroll through::przeglądać::8::1::1::8::0::
-son-in-law::zięć::9::2::1::8::0::
 square (place)::plac::8::0::1::8::0::
-forbidden::zabroniony::8::1::1::8::0::
 variety::różnorodność::8::2::1::8::0::
 only child::jedynak / jeynaczka::3::1::1::3::0::
+to scroll through::przeglądać::8::1::1::8::0::
+to miss out::przegapić::0::1::-1::0::0::
+to possess (have)::posiadać::4::2::1::4::0::
+cousins::kuzynostwo::1::1::1::1::0::
+mostly::przeważnie::3::3::1::3::0::
+birds eye view::widok z lotu ptaka::4::2::1::4::0::
+correct::właściwy::3::2::1::3::0::
+rebellion::bunt::4::0::1::4::0::
+separate::osobny::6::3::1::4::0::
+croissant::rogalik::3::2::1::3::0::
+to imagine::wyobrażać sobie::4::1::1::4::0::
+to stress out::zestresować::4::1::1::4::0::
+to check::sprawdzić::5::1::1::4::0::
+friendly::sympatyczny::5::1::1::5::0::
+crime::przestępstwo::0::1::-1::0::0::
+to pronounce::wymawiać::2::0::1::1::0::
+drowsy::przymulony::0::0::0::0::0::
+noun::rzeczownik::2::1::1::1::0::
+one's appearance::wygląd::0::0::0::0::0::
+verb::czasownik::2::0::1::2::0::
+forbidden::zabroniony::8::1::1::8::0::
+epic::epicki::0::0::0::0::0::
+logic::logika::5::1::1::5::0::
+to ruin::zepsuć::5::2::1::5::0::
+raspberry::malina::3::0::1::3::0::
+to meditate::medytować::5::1::1::5::0::
+that's sth I'm passionate about::to mnie kręci::9::2::1::7::0::
+muffin::bułeczka::4::1::1::4::0::
+excellent::znakomity::5::2::1::5::0::
+usually::zazwyczaj::7::0::1::7::0::
+a reason::powód::6::0::1::6::0::
+coffee pot::kawiarka::0::0::0::0::0::
+stressful::stresujący::5::1::1::5::0::
+a suggestion::sugestia::5::0::1::5::0::
+unbearable::nie do zniesienia::0::0::0::0::0::
+to stand up (get up)::wstać::8::0::1::8::0::
+after waking up::po przebudzeniu::0::0::0::0::0::
+to cancel::odwołać::0::0::0::0::0::
+groovy::szałowy::4::1::1::4::0::
+to waste time::pożeracz czasu::0::0::0::0::0::
+to visit::odwiedzać::0::0::0::0::0::
+significantly::znacznie::0::0::0::0::0::
+to replace::wymienić::0::0::0::0::0::
+separate::oddzielny::0::0::0::0::0::
+directly::bezpośrednio::0::0::0::0::0::
+to notice::zauważyć::0::0::0::0::0::
 to deal with sth::poradzić sobie z czymś::0::0::0::0::0::
+son-in-law::zięć::9::2::1::8::0::
+main reason::główny powód::6::0::1::6::0::
+bill::rachunek::3::0::1::3::0::
+serious::poważny::5::0::1::5::0::
+air::powietrze::1::0::1::1::0::
+surroundings::otoczenia::0::0::0::0::0::
+morning routine::poranna rutyna::0::0::0::0::0::
+relationship::związek::0::0::0::0::0::
+a mess::bałagan::0::1::-1::0::0::
+to share::dzielić się::0::0::0::0::0::
+adjective::przymiotnik::1::0::1::1::0::
+pandemic::pandemia::0::0::0::0::0::
+regularly::regularnie::4::0::1::4::0::
+social::społeczny::0::0::0::0::0::
+community::społeczność::0::0::0::0::0::
+from above::znad::0::0::0::0::0::
+to rinse, scrub::przemyć::0::0::0::0::0::
+successful::udany::0::0::0::0::0::
+purse::torebka::6::0::1::6::0::
