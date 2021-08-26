@@ -227,3 +227,136 @@ preposition::przyimek
 noun::rzeczownik
 verb::czasownik
 adverb::przysłówek
+possible, likely::prawdopodobny
+probability::prawdopodobieństwo
+to rush, speed::pędzić
+considered::uznawany
+to consist of::składać się
+enough::dość
+as if::niby
+to confuse::mylić
+before::zanim
+to cite::przytaczać
+next::kolejny
+actually, in fact::właściwie
+to admit::przyznać
+definition::określenie
+opposite::odwrotnie
+allegations::zarzuty
+pressure::ucisk
+source::źródło
+widespread::rozpowszechniony
+a sign post::szyld
+to look into::zajrzeć do
+issue, topic::zagadnienie
+element, component::czynnik
+to arrive, make it::dotrzeć
+to replace::zastąpić
+to betray, cheat on::zdradzić
+tricky::podchwytliwy
+to wave::pomachać
+to mix up::pomylić
+to swap::zamieniać
+to get fresh air::przewietrzyć
+actual, real::faktyczny
+voter::wyborca
+during, in the course of::w ciągu
+repeatedly::kilkakrotnie
+it is worthwhile::warto
+confession::wyznanie
+quality::jakość
+fame::sława
+condition::warunek
+instead::zamiast
+parallel::równoległy
+election::wyborczy
+mysterious::tajemniczy
+secret::tajemnica
+bus stop::przystanek
+period (of time)::okres
+mankind::rodzaj ludzki
+to accept::przyjmować
+self-employed::samozatrudniony
+adventure::przygoda
+modern::nowoczesny
+direction::kierunek
+to visit::odwiedzać
+slave::niewolnik
+bottle opener::otwieracz
+juicy::soczysta
+nature::przyroda
+gyms::siłownie
+to scratch off::zdrapywać
+to surprise::zaskakować
+trunk (car)::bagażnik
+view::widok
+citizen::obywatel
+to describe::opisać
+honest::uczciwy
+profession::zawód
+to change::zmieniać
+to fall::upaść
+pleasure::przyjemność
+habit::nawyk
+to deliver::dostarcyć
+furniture::meble
+to notice::zauważyć
+rules::zasady
+breath::oddech
+services::usługi
+empty::pusto
+pan::patelnia
+mainly::głównie
+season::pora roku
+in the military::w wojsku
+generation::pokolenie
+painting::malarstwo
+refridgerator::lodówka
+future::przyszłość
+scissors::nożyczki
+mug::kubek
+century::wiek
+stove::kuchenka
+piece, bit::kawałek
+floor::podłoga
+tasks::zadania
+bowl::miska
+roof::dach
+creator::twórca
+plate::talerz
+autumn::jesień
+to contain::zawierać
+to enter::wchodzić
+to exit::wychodzić
+horn (car)::klakson
+steering wheel::kierownica
+awesome::odlotowo
+to pull::wciągnąć
+to get in::wsiadać
+stick::kij
+to put in::wstawić
+to insert::wkładać
+fundamental::fundamentalny
+basic::podstawowy
+key (essential)::kluczowy
+necessary::niezbędny
+an action::czynność
+to replace::zastąpić
+to use sth::używać
+to use, take advantage of::wykorzystać
+to repeat::powtórzyć
+to break::rozbić
+oven::piekarnik
+to receive::otrzymać
+to fry::usmażyć
+to distribute, spread::rozprowadzać
+ingredients::składniki
+to cover up sth::przysypać
+to sell::sprzedać
+to cut through::przekroić
+childhood::dzieciństwo
+dinner::kolacja
+version::wersja
+at least::przynajmniej
+contest::konkurs
+dish::potrawa, danie
