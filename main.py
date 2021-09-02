@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 #from tkinter.ttk import *
-from wordgroup import Card
+#from wordgroup import Card
 from words import Deck
 from files import Files
 from random import randint
@@ -101,8 +101,8 @@ class FlashLearn(Frame):
         #print("Number of words to learn = " + self.packSizeVar.get())
         if self.deck is not None:
             if self.card is not None:
-                self.deck.placeWord(self.card.raw, 0)
-            self.files.fileWordsToFiles(self.deck.wordlist)
+                self.deck.placeWord(self.card, 0)
+            self.files.fileWordsToFiles(self.deck.cardList)
         radio_choice = int(self.radioChoiceVar.get())
         numwords = int(self.packSizeVar.get())
         #print(radio_choice, numwords)
@@ -112,7 +112,7 @@ class FlashLearn(Frame):
 
     def setWordCount(self):
         '''To show how many words are in the pack, display in the upper right corner'''
-        label = Label(self.tab2, text=str(len(self.deck.wordlist)))
+        label = Label(self.tab2, text=str(len(self.deck.cardList)))
         label.grid(padx=10, pady=5, row=0, column=2, sticky=E)
     
     def flip(self):
@@ -128,7 +128,7 @@ class FlashLearn(Frame):
         self.card.incrementRight()
         learnvalue = self.card.getLearnValue()
         #print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
-        self.deck.placeWord(self.card.raw, learnvalue*100)
+        self.deck.placeWord(self.card, learnvalue*100)
         #last = self.card.last       
         #if last == 1: #got it right last time so place at end
         #    self.deck.placeWord(self.card.raw, 100)
@@ -145,7 +145,7 @@ class FlashLearn(Frame):
         self.card.incrementWrong()
         learnvalue = self.card.getLearnValue()
         #print("Learn value = "+str(learnvalue) + " streak = " + str(self.card.streak))
-        self.deck.placeWord(self.card.raw, learnvalue*100)
+        self.deck.placeWord(self.card, learnvalue*100)
         #last = self.card.last       
         #if last == -1:  #got it wrong last time too, so see it more often
         #    self.deck.placeWord(self.card.raw, 15) 
@@ -155,8 +155,9 @@ class FlashLearn(Frame):
         self.displayWord()
 
     def getNextWord(self):
-        '''Get a word from the wordlist depending on the language set'''
-        self.card = Card(self.deck.getNextWord())
+        '''Get a word from the cardList depending on the language set'''
+        #self.card = Card(self.deck.getNextWord())
+        self.card = self.deck.getNextWord()
 
     def displayWord(self):
         '''Display either the english or polish version of the word'''
@@ -181,8 +182,8 @@ class FlashLearn(Frame):
             print("You know this word well")
             self.text.configure(bg="#0F0")
 
-        #print(self.deck.wordlist)
-        val = len(self.seenwords) / len(self.deck.wordlist)
+        #print(self.deck.cardList)
+        val = len(self.seenwords) / len(self.deck.cardList)
         #print(val)
         self.masterval.configure(text=str(abs(round(val, 2))))
 
@@ -209,10 +210,10 @@ class FlashLearn(Frame):
         '''When closing the window, save the words back into the vocab file'''
         #print("Window is closing, do something")
         if self.card is not None:
-            self.deck.placeWord(self.card.raw, 0)#place back into deck before saving
+            self.deck.placeWord(self.card, 0)#place back into deck before saving
         if self.deck is not None:
             #self.files.returnTempToVocabFile()
-            self.files.fileWordsToFiles(self.deck.wordlist)
+            self.files.fileWordsToFiles(self.deck.cardList)
         self.master.destroy()
 
     def wordAlreadySeen(self, word):
