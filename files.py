@@ -99,10 +99,6 @@ class Files(object):
 
         pack = []
 
-        #while len(pack) != num:
-        #    index = randint(0, len(words)-1)
-        #    pack.append(words.pop(index))
-
         for i in list(range(num)):
            index = randint(0, len(words)-1)
            pack.append(words.pop(index))
