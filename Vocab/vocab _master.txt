@@ -360,3 +360,28 @@ version::wersja
 at least::przynajmniej
 contest::konkurs
 dish::potrawa, danie
+repeately, several times::wielokrotnie
+to stink, smell::śmierdzieć
+a smell::zapach
+to present, introduce::przedstawiać
+in contact::styczność
+to complete, fill out::wypełnić
+to stand out, distinguish::wyróżniać
+multiple, repeated::wielokrotny
+to be embarrassed::wstydzić
+nothing to be ashamed of::się czego wstydzić
+random::przypadkowy
+emphasis, focus::nacisk
+development, growth::rozwój
+open-minded, open::otwarty
+flexible::elastyczny
+to develop, grow::rozwijać
+fear::strach
+shame::wstyd
+opposite, vice versa::odwrotnie
+defect, flaw::wada
+to result, derive::wynikać
+here and there::gdzieniegdzie
+gradually::pomału
+to assume::przypuszczać
+
