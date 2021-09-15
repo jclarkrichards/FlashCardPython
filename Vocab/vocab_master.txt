@@ -355,7 +355,6 @@ to stand out, distinguish::wyróżniać
 multiple, repeated::wielokrotny
 to be embarrassed::wstydzić
 nothing to be ashamed of::się czego wstydzić
-random::przypadkowy
 emphasis, focus::nacisk
 development, growth::rozwój
 open-minded, open::otwarty
@@ -369,21 +368,17 @@ to result, derive::wynikać
 here and there::gdzieniegdzie
 gradually::pomału
 to assume::przypuszczać
-dish::potrawa, danie
 to handle, deal::poradzić
 to manifest itself::przejawiać się
 to worry about::przejmować
 to approach::podchodzić
 to go through, pass::przechodzić
 setback::niepowodzenie
-to avoid::unikać
 attitude, mindset::nastawienie
 to happen, occur::wydarzyć
 impact, influence::wypłw
-to approach::podejść
 with a hint of::z nutką
 cloudy, gloomy::pochmurny
-to describe::opisać
 eternally::wiecznie
 busy::zajęty
 brilliant, bright::błyskotliwy
