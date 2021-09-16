@@ -368,3 +368,21 @@ to result, derive::wynikać
 here and there::gdzieniegdzie
 gradually::pomału
 to assume::przypuszczać
+<<<<<<< HEAD
+=======
+to handle, deal::poradzić
+to manifest itself::przejawiać się
+to worry about::przejmować
+to approach::podchodzić
+to go through, pass::przechodzić
+setback::niepowodzenie
+attitude, mindset::nastawienie
+to happen, occur::wydarzyć
+impact, influence::wypłw
+with a hint of::z nutką
+cloudy, gloomy::pochmurny
+eternally::wiecznie
+busy::zajęty
+brilliant, bright::błyskotliwy
+everything works out::wszystko się uda
+>>>>>>> a1a2f29e6024c5e67028edceb4980852cf5f1e3c
