@@ -355,7 +355,6 @@ to stand out, distinguish::wyróżniać
 multiple, repeated::wielokrotny
 to be embarrassed::wstydzić
 nothing to be ashamed of::się czego wstydzić
-random::przypadkowy
 emphasis, focus::nacisk
 development, growth::rozwój
 open-minded, open::otwarty
@@ -369,4 +368,3 @@ to result, derive::wynikać
 here and there::gdzieniegdzie
 gradually::pomału
 to assume::przypuszczać
-dish::potrawa, danie
