@@ -392,4 +392,43 @@ message::przesłanie
 bold, brave::odważny
 bold, daring::śmiały
 bald like a knee::łysy jak kolano
-
+opinion::zdanie
+myth::mit
+to repeat::powtórzyć
+for some reason::z jakichś powodów
+Hungarian::węgierski
+Dutch::holenderski
+Finnish::fiński
+Russian::rosyjski
+Italian::włoski
+slavik::słowiański
+unintuitive::nieintuicyjne
+to tell/conclude::stwierdzić
+native::natywny
+skill/ability::zdolność
+to overcome::do pokonania/przezwyciężać
+spelling::ortografia
+Chinese::chiński
+asian::azjatycki
+as far as I know::z tego co wiem
+foreigner::obcokrajowiec
+foreign::zagraniczny
+challenge::wyzwanie
+challenging::wyzywający
+ambitious::ambitny
+rustling::szelest/szeleszcząc
+beetle::chrząszcz
+unpredictable::nieprzewidywalny
+especially::zwłaszcza/szczególnie
+in contact::styczność
+student/pupil::uczeń
+native language/mother tongue::język ojczysty
+previous::poprzedni
+collaboration::współpracy
+offer::oferta
+dozen::tuzin
+a few dozen::kilkadziesiąt
+dependence::zależność
+apparently::podobno
+syntaz::składnia
+confusion::zamieszanie
