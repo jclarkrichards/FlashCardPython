@@ -89,6 +89,7 @@ class FlashLearn(Frame):
         for line in f:
             wordlist.append(line.split('\n')[0])
         self.deck = Deck(wordlist)
+        #print(self.deck.wordlist)
         #print(len(wordlist))
         #self.masterlevel = 0
         self.setWordCount()
@@ -108,6 +109,7 @@ class FlashLearn(Frame):
         #print(radio_choice, numwords)
         pack = self.files.generateRandomPack(numwords)
         self.deck = Deck(pack)
+        print(self.deck.wordlist)
         self.setStartLanguage()
 
     def setWordCount(self):
