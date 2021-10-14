@@ -383,3 +383,100 @@ eternally::wiecznie
 busy::zajęty
 brilliant, bright::błyskotliwy
 everything works out::wszystko się uda
+irrelevant::nieistotny
+often mistaken::często mylone
+to tell the difference::odróżnić
+totally bald::totalnie łyso
+bald::łysy
+message::przesłanie
+bold, brave::odważny
+bold, daring::śmiały
+bald like a knee::łysy jak kolano
+opinion::zdanie
+myth::mit
+for some reason::z jakichś powodów
+Hungarian::węgierski
+Dutch::holenderski
+Finnish::fiński
+Russian::rosyjski
+Italian::włoski
+slavik::słowiański
+unintuitive::nieintuicyjne
+to tell/conclude::stwierdzić
+native::natywny
+skill/ability::zdolność
+to overcome::do pokonania/przezwyciężać
+spelling::ortografia
+Chinese::chiński
+asian::azjatycki
+as far as I know::z tego co wiem
+foreigner::obcokrajowiec
+foreign::zagraniczny
+challenge::wyzwanie
+challenging::wyzywający
+ambitious::ambitny
+rustling::szelest/szeleszcząc
+beetle::chrząszcz
+unpredictable::nieprzewidywalny
+especially::zwłaszcza/szczególnie
+student/pupil::uczeń
+native language/mother tongue::język ojczysty
+previous::poprzedni
+collaboration::współpracy
+offer::oferta
+dozen::tuzin
+a few dozen::kilkadziesiąt
+dependence::zależność
+apparently::podobno
+syntaz::składnia
+confusion::zamieszanie
+to dream/ask for::wymarzyć
+in the north::na północy
+in the south::na południu
+town::miasteczka
+extreme::skrajność
+I, on the other hand::ja za to
+hiking::turystyka
+trip/excursion::wycieczki
+rest/break::odpoczynek
+for you both::dla was obojga
+to enjoy/take advantage of::korzystać z
+surrounded by::w otoczeniu
+tent::namiot
+equipment::sprzęt
+to immerse onself::zanurzyć się
+village/place::miejscowość
+footpath::dróżka
+path (general)::ścieżka
+summit/peak::szczyt
+trail::szlak
+steep::stromy
+marked::oznaczany
+stripe::pasek
+set::zestaw
+sunglasses::okulary przeciwsłoneczne
+windy (it blows)::wieje
+screen (divider)::parawan
+screen (computer)::ekran
+to come in handy::się przydać
+they really come in handy::naprawdę się przydają
+to replace/substitue::zastępować
+flip-flops::klapki
+barefoot::na bosaka
+to walk barefoot::chodzić boso/boska
+to practice/cultivate/enjoy::uprawiać
+behind my back::za moimi plecami
+sail::żagiel
+to sail::żeglować
+board (people)::zarząd
+board (general)::tablica/deska
+to stop/stay/pause::zatrzymać się
+sacrifice::poświęcenie
+coleslaw::surówka
+sprinkle/drizzle with::skropić
+treat/delicacy::przysmak
+flavor/taste::smak
+to occur::występować
+experience::doświadczenie
+in the meantime::tymczasem
+either way/one way or another::tak czy siak
