@@ -525,3 +525,5 @@ careful::ostrożny
 habit (bad)::nałóg
 deck (of cards)::talia
 a stack (of sth)::stos
+memorize::zapamiętać
+both way::(na/w) obie strony
