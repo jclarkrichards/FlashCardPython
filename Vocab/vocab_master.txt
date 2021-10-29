@@ -1,4 +1,3 @@
-a reason::powód
 surprise::niespodzianka
 purse::torebka
 granddaughter::wnuczka
@@ -30,7 +29,7 @@ for rent::do wynajęcia
 scorching (hot)::upalny
 unbearable::nie do zniesienia
 cute::uroczy
-quite good::całkiem, całkiem
+quite good::całkiem/ całkiem
 awesome::ekstra
 at the same time::jednocześnie
 excellent::znakomity
@@ -44,7 +43,7 @@ definitely::zdecydowanie
 to miss out::przegapić
 serious::poważny
 crude::surowy
-mild, gentle::łagodny
+mild/ gentle::łagodny
 usually::zazwyczaj
 to pronounce::wymawiać
 separate::oddzielny
@@ -108,7 +107,7 @@ eyesight::wzrok
 mostly::przeważnie
 muffin::bułeczka
 coffee pot::kawiarka
-to rinse, scrub::przemyć
+to rinse/ scrub::przemyć
 to wash::umyć
 a kiss::buziak
 croissant::rogalik
@@ -135,7 +134,7 @@ sold out::wysprzedany
 abundance::obfitość
 designed for...::obliczony na
 service::obsługa
-two times as much as::dwa razy tyle, co
+two times as much as::dwa razy tyle/ co
 to cool::chłodzić
 to possess (have)::posiadać
 significantly::znacznie
@@ -221,9 +220,9 @@ social media::media społecznościowe
 preposition::przyimek
 noun::rzeczownik
 adverb::przysłówek
-possible, likely::prawdopodobny
+possible/ likely::prawdopodobny
 probability::prawdopodobieństwo
-to rush, speed::pędzić
+to rush/ speed::pędzić
 considered::uznawany
 to consist of::składać się
 enough::dość
@@ -232,7 +231,7 @@ to confuse::mylić
 before::zanim
 to cite::przytaczać
 next::kolejny
-actually, in fact::właściwie
+actually/in fact::właściwie
 to admit::przyznać
 definition::określenie
 opposite::odwrotnie
@@ -242,18 +241,18 @@ source::źródło
 widespread::rozpowszechniony
 a sign post::szyld
 to look into::zajrzeć do
-issue, topic::zagadnienie
-element, component::czynnik
-to arrive, make it::dotrzeć
-to betray, cheat on::zdradzić
+issue/topic::zagadnienie
+element/component::czynnik
+to arrive/make it::dotrzeć
+to betray/cheat on::zdradzić
 tricky::podchwytliwy
 to wave::pomachać
 to mix up::pomylić
 to swap::zamieniać
 to get fresh air::przewietrzyć
-actual, real::faktyczny
+actual/real::faktyczny
 voter::wyborca
-during, in the course of::w ciągu
+during/in the course of::w ciągu
 repeatedly::kilkakrotnie
 it is worthwhile::warto
 confession::wyznanie
@@ -304,7 +303,7 @@ scissors::nożyczki
 mug::kubek
 century::wiek
 stove::kuchenka
-piece, bit::kawałek
+piece/ bit::kawałek
 floor::podłoga
 tasks::zadania
 bowl::miska
@@ -328,13 +327,13 @@ key (essential)::kluczowy
 necessary::niezbędny
 an action::czynność
 to use sth::używać
-to use, take advantage of::wykorzystać
+to use/ take advantage of::wykorzystać
 to repeat::powtórzyć
 to break::rozbić
 oven::piekarnik
 to receive::otrzymać
 to fry::usmażyć
-to distribute, spread::rozprowadzać
+to distribute/ spread::rozprowadzać
 ingredients::składniki
 to cover up sth::przysypać
 to sell::sprzedać
@@ -344,44 +343,44 @@ dinner::kolacja
 version::wersja
 at least::przynajmniej
 contest::konkurs
-dish::potrawa, danie
-repeately, several times::wielokrotnie
-to stink, smell::śmierdzieć
+dish::potrawa/ danie
+repeately/ several times::wielokrotnie
+to stink/ smell::śmierdzieć
 a smell::zapach
-to present, introduce::przedstawiać
+to present/ introduce::przedstawiać
 in contact::styczność
-to complete, fill out::wypełnić
-to stand out, distinguish::wyróżniać
-multiple, repeated::wielokrotny
+to complete/ fill out::wypełnić
+to stand out/ distinguish::wyróżniać
+multiple/ repeated::wielokrotny
 to be embarrassed::wstydzić
 nothing to be ashamed of::się czego wstydzić
-emphasis, focus::nacisk
-development, growth::rozwój
-open-minded, open::otwarty
+emphasis/ focus::nacisk
+development/ growth::rozwój
+open-minded/ open::otwarty
 flexible::elastyczny
-to develop, grow::rozwijać
+to develop/ grow::rozwijać
 fear::strach
 shame::wstyd
-opposite, vice versa::odwrotnie
-defect, flaw::wada
-to result, derive::wynikać
+opposite/ vice versa::odwrotnie
+defect/ flaw::wada
+to result/ derive::wynikać
 here and there::gdzieniegdzie
 gradually::pomału
 to assume::przypuszczać
-to handle, deal::poradzić
+to handle/ deal::poradzić
 to manifest itself::przejawiać się
 to worry about::przejmować
 to approach::podchodzić
-to go through, pass::przechodzić
+to go through/ pass::przechodzić
 setback::niepowodzenie
-attitude, mindset::nastawienie
-to happen, occur::wydarzyć
-impact, influence::wypłw
+attitude/ mindset::nastawienie
+to happen/ occur::wydarzyć
+impact/ influence::wypłw
 with a hint of::z nutką
-cloudy, gloomy::pochmurny
+cloudy/ gloomy::pochmurny
 eternally::wiecznie
 busy::zajęty
-brilliant, bright::błyskotliwy
+brilliant/ bright::błyskotliwy
 everything works out::wszystko się uda
 irrelevant::nieistotny
 often mistaken::często mylone
@@ -389,8 +388,8 @@ to tell the difference::odróżnić
 totally bald::totalnie łyso
 bald::łysy
 message::przesłanie
-bold, brave::odważny
-bold, daring::śmiały
+bold/ brave::odważny
+bold/ daring::śmiały
 bald like a knee::łysy jak kolano
 opinion::zdanie
 myth::mit
@@ -435,7 +434,7 @@ in the north::na północy
 in the south::na południu
 town::miasteczka
 extreme::skrajność
-I, on the other hand::ja za to
+I on the other hand::ja za to
 hiking::turystyka
 trip/excursion::wycieczki
 rest/break::odpoczynek

@@ -12,7 +12,7 @@ class Deck(object):
         #print(self.wordlist)
         self.setup()
 
-    def setup(self):
+    def setup(self): 
         '''Create the cards from the words'''
         for word in self.wordlist:
             card = Card(word)
