@@ -23,7 +23,7 @@ to get enough sleep::wyspać się
 stunning::oszałamiający
 epic::epicki
 to come (over)::przyść
-friendly::sympatyczny
+sympathetic::sympatyczny
 top notch::pierwsza klasa
 for rent::do wynajęcia
 scorching (hot)::upalny
@@ -147,7 +147,7 @@ object::obiekt
 directly::bezpośrednio
 bill::rachunek
 entrance::wejście
-correct::właściwy
+correct/appropriate::właściwy
 verb::czasownik
 precise::precyzyjny
 random::przypadkowy
@@ -393,6 +393,7 @@ bold/ daring::śmiały
 bald like a knee::łysy jak kolano
 opinion::zdanie
 myth::mit
+to repeat::powtórzyć
 for some reason::z jakichś powodów
 Hungarian::węgierski
 Dutch::holenderski
@@ -418,6 +419,7 @@ rustling::szelest/szeleszcząc
 beetle::chrząszcz
 unpredictable::nieprzewidywalny
 especially::zwłaszcza/szczególnie
+in contact::styczność
 student/pupil::uczeń
 native language/mother tongue::język ojczysty
 previous::poprzedni
@@ -476,6 +478,51 @@ sprinkle/drizzle with::skropić
 treat/delicacy::przysmak
 flavor/taste::smak
 to occur::występować
+delicious::pyszny
 experience::doświadczenie
 in the meantime::tymczasem
 either way/one way or another::tak czy siak
+it brings/carries::niesie
+to pass/graduate::zdać
+event::wydarzenie
+international::międzynarodowy
+to refer/relate::odnosić się
+to chirp/tweet::ćwierkać
+to rustle::szeleścić
+passion::pasja
+beetle::żuczek/chrząszcz
+insect::owad
+lawn::trawnik
+friendly::przyjazny
+almighty/omnipotent::wszechmocny
+came to mind::przyszło na myśl
+shits/diarrhea::sraczka
+diarrhea::biegunka
+to reach::sięgnąć
+imagination::wyobraźnia
+skill/ability::umiejętność
+personality::osobowość
+admission/enter::wstęp
+to beg::błagać
+tip/end (of sth)::końcówka
+tip (money)::napiwek
+convincing::przekonujący
+on tape::na taśmie
+to record::nagrać
+current (electrical)::prąd
+mood::natrój
+textbook::podręcznik
+nationality::narodowość
+dignity::godność
+phenomenon::zjawisko
+initially::początkowo
+originally::pierwotnie
+to represent::reprezentować
+scientist::naukowiec
+programmer::programista
+careful::ostrożny
+habit (bad)::nałóg
+deck (of cards)::talia
+a stack (of sth)::stos
+memorize::zapamiętać
+both way::(na/w) obie strony

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id, english, polish
 0,a reason,powód
 1,purse,torebka
@@ -7,3 +8,17 @@ id, english, polish
 5,brilliant,rewelacyjny
 6,grandson,wnuk
 7,a lot of,sporo
+=======
+english, polish, right, wrong
+a reason,powód,0,0
+purse,torebka,0,0
+granddaughter,wnuczka,0,0
+reason,powód,0,0
+square (place),plac,0,0
+brilliant,rewelacyjny,0,0
+grandson,wnuk,0,0
+a lot of,sporo,0,0
+team,ekipa,0,0
+gesture,gest,0,0
+
+>>>>>>> d46e1ffe4745a982ab512744196eb7115b86767a
