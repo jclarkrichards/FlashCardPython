@@ -1,0 +1,22 @@
+butter::masło
+thirsty::spragniony
+thirst::pragnienie
+pickled::kiszony
+sour::kwaśny
+spicy::pikantny
+salty::słony
+bitter::gorzki
+cutlery::sztućce
+roll (food)::bułka
+spice::przyprawa
+vegetables::warzywo/jarzyny
+orange (fruit)::pomarańcza
+strawberry::truskawka
+potato::ziemniak
+cucumber::ogórek
+small sausage::parówka
+ham::szynka
+chicken::kurczak
+beef::wołowina
+pork::wieprzowina
+lamb (food)::jagnięcina
