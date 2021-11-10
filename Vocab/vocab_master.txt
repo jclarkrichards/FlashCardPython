@@ -4,11 +4,12 @@ granddaughter::wnuczka
 reason::powód
 candy::cukierek
 square (place)::plac
-brilliant::rewelacyjny
+sensational::rewelacyjny
 grandson::wnuk
 a lot of::sporo
 since::skoro
-team::ekipa
+team/crew::ekipa
+team::zespół
 gesture::gest
 a lot more::dużo więcej
 vocabulary::słownictwo
@@ -27,14 +28,16 @@ sympathetic::sympatyczny
 top notch::pierwsza klasa
 for rent::do wynajęcia
 scorching (hot)::upalny
-unbearable::nie do zniesienia
+unbearable::nieznośny
 cute::uroczy
-quite good::całkiem/ całkiem
+quite good::całkiem całkiem
 awesome::ekstra
 at the same time::jednocześnie
 excellent::znakomity
+amazing::niesamowity
 to burn::spalić
-decent::zacny
+noble::zacny
+decent::przyzwoity
 pretty good::niczego sobie
 charming::urokliwy
 fabulous::bajeczny
@@ -55,7 +58,7 @@ humid::wilgotny
 himidity::wilgotność
 to cancel::odwołać
 to comb (hair)::uczesać się
-one's appearance::wygląd
+a look::wygląd
 a mess::bałagan
 to summarize::podsumować
 a summary::podsumowanie
@@ -67,7 +70,7 @@ ancestor::przodek
 to borrow::zapożyczać
 rebellion::bunt
 feature::cecha
-still::ciągle
+still::ciągle/ nadal
 cleavage::dekolt
 income::dochód
 convinced::przekonany
@@ -130,11 +133,11 @@ current::obecny
 present (tense)::teraźniejszy
 future::przyszły
 past::przeszły
-sold out::wysprzedany
+sold out::wyprzedany
 abundance::obfitość
-designed for...::obliczony na
+designed for...::przeznaczony do
 service::obsługa
-two times as much as::dwa razy tyle/ co
+two times as much as::dwa razy tyle co
 to cool::chłodzić
 to possess (have)::posiadać
 significantly::znacznie
@@ -153,6 +156,7 @@ precise::precyzyjny
 random::przypadkowy
 activity::czynność
 only child::jedynak / jeynaczka
+subject::przedmiot
 siblings::rodzeństwo
 to respect::szanować
 parent::rodzic
@@ -190,8 +194,9 @@ technically::zasadniczo
 solution::rozwiązanie
 to lose a job::stracić pracę
 stressful::stresujący
-that's sth I'm passionate about::to mnie kręci
-hobby::pasja
+it turns me on::to mnie kręci
+passion::pasja
+hobby::hobby
 escape::ucieczka
 rational::racjonalny
 opportunity::możliwość
@@ -206,7 +211,7 @@ raspberry::malina
 absolutely::absolutnie
 regularly::regularnie
 to meditate::medytować
-drowsy::przymulony
+drowsy::senny
 to waste time::pożeracz czasu
 air::powietrze
 to irritate sb::poddenerwować
@@ -353,7 +358,7 @@ to complete/ fill out::wypełnić
 to stand out/ distinguish::wyróżniać
 multiple/ repeated::wielokrotny
 to be embarrassed::wstydzić
-nothing to be ashamed of::się czego wstydzić
+nothing to be ashamed of::nic się czego wstydzić
 emphasis/ focus::nacisk
 development/ growth::rozwój
 open-minded/ open::otwarty
@@ -510,7 +515,7 @@ convincing::przekonujący
 on tape::na taśmie
 to record::nagrać
 current (electrical)::prąd
-mood::natrój
+mood::nastrój
 textbook::podręcznik
 nationality::narodowość
 dignity::godność
@@ -531,3 +536,124 @@ tool::narzędzie
 independently::samodzielnie
 any/desired::dowolny
 to be tempted::pokusić się
+length::długość
+valley::dolina
+cruel::okrutny
+tightly::ciasno
+tight::ciasny
+mysterious::tajemniczy
+worthy::godny
+dim::przygasać
+hook::haczyk
+reward::nagroda
+foolish::głupi
+suggestion::sugestia
+violence::przemoc
+farmer::rolnik
+to rescue::uratować
+research::badan
+research (adj)::badawczy
+anxiety::niepokój
+mighty::potężny
+coast::wybrzeże
+permission::zezwolenie
+clerk::urzędnik
+to associate::kojarzyć
+dining::jadalnia
+benefit/advantage::korzyść
+totally/completely::całkowicie
+to accuse::oskarżać
+background::tło
+vehicle::pojazd
+department::dział
+funeral::pogrzeb
+reflection::odbicie
+blade::liście
+to divide::podzielić
+criminal::przestępca
+consciousness::świadomość
+responsible::odpowiedzialny
+guilty::winny
+innocent::niewinny
+innocence::niewinność
+to pat::poklepać
+shelter::schronienie
+basketball::koszykówka
+to crush::zmiażdżyć
+judgment::orzeczenie
+to confirm::potwierdzić
+poetry::poezja
+flood::powódź
+virtue::cnota
+crown::korona
+plot (plan)::spisek
+layer::warstwa
+development::rozwój
+to scratch::podrapać
+equally::równie
+curve::krzywa
+confusion::zamieszanie
+desperate::zdesperowany
+to whistle::gwizdać
+a whistle::gwizdek
+citizen::obywatel
+conclusion::wniosek
+employee::pracownik
+lawyer::prawnik
+to impress::zaimponować
+fingernail::paznokieć
+nail::gwóźdź
+screw::śruba
+slim::szczupły
+thin::chudy/cienki
+broken::złamany
+pillow::poduszka
+instantly::natychmiast
+spelling::ortografia/pisownia
+in that case::w takim razie
+affection::uczucia
+to a large extent::w dużym stopniu
+to communicate::porozumiewać się
+personal data::dane osobowe
+data:: dane
+to withdraw/back out::wycofać
+mixture::mieszanka
+growth/development::rozwój
+bringing::sprowadzanie
+from above::znad
+string::struna
+scientifically::naukowo
+aroused::podniecony
+sand::piasek
+alcoholic::pijak
+assumption::założenie
+publisher::wydawca
+upbringing/parenting::wychowanie
+robe/bathrobe::szlafrok
+structure::struktura
+final::końcowy
+a can::puszka
+to add::dodawać
+to subtract::odjąć
+masculine::męski
+feminine::żeński
+neutral::neutralny
+to require::wymagać
+molecule::cząsteczka
+property::własność
+noise::hałas
+truck::ciężarówka
+to invent::wymyślić
+subtraction::odejmowanie
+addition::dodatek/dodanie
+multiplication::mnożenie
+skill::umiejętnośćs
+oxygen::tlen
+helium::hel
+lithium::lit
+hydrogen::wodór
+neighbor::sąsiad
+sense (feeling)::poczucie
+hole::dziura
+waffles::gofry
+
